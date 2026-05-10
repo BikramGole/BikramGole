@@ -117,6 +117,7 @@ neo@arch:~$ ls -1 ~/projects
 ### 🔨 Recent Activity
 
 
+- [DevXtechnic/RVX-UltraLock](https://github.com/DevXtechnic/RVX-UltraLock) -  (today)
 - [DevXtechnic/ojt10](https://github.com/DevXtechnic/ojt10) -  (2 days ago)
 - [DevXtechnic/wallpapers](https://github.com/DevXtechnic/wallpapers) - A personal, curated wallpaper collection. (1 week ago)
 - [DevXtechnic/fish-prompt](https://github.com/DevXtechnic/fish-prompt) - My personal Fish shell prompt configuration using Oh My Posh, featuring powerline segments and Arch Linux styling. (3 weeks ago)
