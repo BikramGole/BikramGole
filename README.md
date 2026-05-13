@@ -118,6 +118,7 @@ neo@arch:~$ ls -1 ~/projects
 
 
 - [DevXtechnic/ojt10](https://github.com/DevXtechnic/ojt10) -  (today)
+- [DevXtechnic/E-Commerce](https://github.com/DevXtechnic/E-Commerce) - Django-based eCommerce website with product listing, cart, checkout, user auth, and basic order management. Uses Django admin for management and templates for frontend.  (today)
 - [DevXtechnic/RVX-UltraLock](https://github.com/DevXtechnic/RVX-UltraLock) -  (3 days ago)
 - [DevXtechnic/wallpapers](https://github.com/DevXtechnic/wallpapers) - A personal, curated wallpaper collection. (1 week ago)
 - [DevXtechnic/fish-prompt](https://github.com/DevXtechnic/fish-prompt) - My personal Fish shell prompt configuration using Oh My Posh, featuring powerline segments and Arch Linux styling. (1 month ago)
