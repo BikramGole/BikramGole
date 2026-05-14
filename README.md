@@ -117,6 +117,7 @@ neo@arch:~$ ls -1 ~/projects
 ### 🔨 Recent Activity
 
 
+- [DevXtechnic/ojt10-2](https://github.com/DevXtechnic/ojt10-2) -  (today)
 - [DevXtechnic/E-Commerce](https://github.com/DevXtechnic/E-Commerce) - Django-based eCommerce website with product listing, cart, checkout, user auth, and basic order management. Uses Django admin for management and templates for frontend.  (today)
 - [DevXtechnic/ojt10](https://github.com/DevXtechnic/ojt10) -  (1 day ago)
 - [DevXtechnic/RVX-UltraLock](https://github.com/DevXtechnic/RVX-UltraLock) -  (4 days ago)
