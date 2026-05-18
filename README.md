@@ -97,18 +97,18 @@ neo@arch:~$ ls -1 ~/projects
 
 <div align="center">
 
-| **GitHub Stats** | **Streak Stats** |
+<img src="github-metrics.svg" width="850" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=DevXtechnic&show_icons=true&theme=radical&count_private=true" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXtechnic&layout=compact&theme=radical" width="400" />
+
+<br/>
+
+| **Streak Stats** | **Trophies** |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=DevXtechnic&show_icons=true&theme=radical" width="400" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevXtechnic&theme=radical" width="400" /> |
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXtechnic&layout=compact&theme=radical" />
-
-<br/>
-
-### 🏆 Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=DevXtechnic&theme=radical&no-frame=true" />
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevXtechnic&theme=radical" width="400" /> | <img src="https://github-profile-trophy.vercel.app/?username=DevXtechnic&theme=radical&no-frame=true" width="400" /> |
 
 </div>
 
