@@ -117,10 +117,10 @@ neo@arch:~$ ls -1 ~/projects
 ### 🔨 Recent Activity
 
 
-- [DevXtechnic/E-Commerce](https://github.com/DevXtechnic/E-Commerce) - A feature-rich Django e-commerce site with product filtering, shopping cart, user auth, and order tracking. Includes a CRM module and admin dashboard. Built as a school project to showcase full-stack development, database management, and responsive design. (today)
-- [DevXtechnic/wallpapers](https://github.com/DevXtechnic/wallpapers) - A personal, curated wallpaper collection. (6 days ago)
-- [DevXtechnic/RVX-UltraLock](https://github.com/DevXtechnic/RVX-UltraLock) -  (6 days ago)
-- [DevXtechnic/ojt10-2](https://github.com/DevXtechnic/ojt10-2) -  (6 days ago)
+- [DevXtechnic/E-Commerce](https://github.com/DevXtechnic/E-Commerce) - A feature-rich Django e-commerce site with product filtering, shopping cart, user auth, and order tracking. Includes a CRM module and admin dashboard. Built as a school project to showcase full-stack development, database management, and responsive design. (1 day ago)
+- [DevXtechnic/wallpapers](https://github.com/DevXtechnic/wallpapers) - A personal, curated wallpaper collection. (1 week ago)
+- [DevXtechnic/RVX-UltraLock](https://github.com/DevXtechnic/RVX-UltraLock) -  (1 week ago)
+- [DevXtechnic/ojt10-2](https://github.com/DevXtechnic/ojt10-2) -  (1 week ago)
 - [DevXtechnic/ojt10](https://github.com/DevXtechnic/ojt10) -  (1 week ago)
 - [DevXtechnic/fish-prompt](https://github.com/DevXtechnic/fish-prompt) - My personal Fish shell prompt configuration using Oh My Posh, featuring powerline segments and Arch Linux styling. (1 month ago)
 - [DevXtechnic/Neopluse](https://github.com/DevXtechnic/Neopluse) -  (2 months ago)
