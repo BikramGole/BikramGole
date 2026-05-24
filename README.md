@@ -117,7 +117,7 @@ neo@arch:~$ ls -1 ~/projects
 ### 🔨 Recent Activity
 
 
-- [DevXtechnic/E-Commerce](https://github.com/DevXtechnic/E-Commerce) - A feature-rich Django e-commerce site with product filtering, shopping cart, user auth, and order tracking. Includes a CRM module and admin dashboard. Built as a school project to showcase full-stack development, database management, and responsive design. (3 days ago)
+- [DevXtechnic/E-Commerce](https://github.com/DevXtechnic/E-Commerce) - A feature-rich Django e-commerce site with product filtering, shopping cart, user auth, and order tracking. Includes a CRM module and admin dashboard. Built as a school project to showcase full-stack development, database management, and responsive design. (4 days ago)
 - [DevXtechnic/wallpapers](https://github.com/DevXtechnic/wallpapers) - A personal, curated wallpaper collection. (1 week ago)
 - [DevXtechnic/RVX-UltraLock](https://github.com/DevXtechnic/RVX-UltraLock) -  (1 week ago)
 - [DevXtechnic/ojt10-2](https://github.com/DevXtechnic/ojt10-2) -  (1 week ago)
