@@ -23,25 +23,39 @@ jobs:
           template: classic
           base: header, community, repositories, metadata
           config_timezone: Asia/Kathmandu
+          
+          # Languages
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_indepth: yes
           plugin_languages_limit: 8
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_lines: yes
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_stars: yes
-          plugin_stars_limit: 4
+          
+          # Coding Habits
           plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+          plugin_habits_trim: yes
+          
+          # WakaTime
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_days: 7
+          plugin_wakatime_sections: title, languages, languages-graphs, editors, os
+          plugin_wakatime_limit: 5
+          
+          # Activity
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 14
           plugin_activity_filter: all
+          
+          # Other plugins
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_stars: yes
+          plugin_stars_limit: 4
+          
           committer_token: ${{ secrets.GITHUB_TOKEN }}
