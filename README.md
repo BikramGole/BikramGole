@@ -117,12 +117,12 @@ neo@arch:~$ ls -1 ~/projects
 ### 🔨 Recent Activity
 
 
-- [rudra-buildlab/kina_ai](https://github.com/rudra-buildlab/kina_ai) -  (5 days ago)
-- [DevXtechnic/E-Commerce](https://github.com/DevXtechnic/E-Commerce) - A feature-rich Django e-commerce site with product filtering, shopping cart, user auth, and order tracking. Includes a CRM module and admin dashboard. Built as a school project to showcase full-stack development, database management, and responsive design. (6 days ago)
+- [rudra-buildlab/kina_ai](https://github.com/rudra-buildlab/kina_ai) -  (6 days ago)
+- [DevXtechnic/E-Commerce](https://github.com/DevXtechnic/E-Commerce) - A feature-rich Django e-commerce site with product filtering, shopping cart, user auth, and order tracking. Includes a CRM module and admin dashboard. Built as a school project to showcase full-stack development, database management, and responsive design. (1 week ago)
 - [DevXtechnic/wallpapers](https://github.com/DevXtechnic/wallpapers) - A personal, curated wallpaper collection. (1 week ago)
 - [DevXtechnic/RVX-UltraLock](https://github.com/DevXtechnic/RVX-UltraLock) -  (1 week ago)
 - [DevXtechnic/ojt10-2](https://github.com/DevXtechnic/ojt10-2) -  (1 week ago)
-- [DevXtechnic/ojt10](https://github.com/DevXtechnic/ojt10) -  (1 week ago)
+- [DevXtechnic/ojt10](https://github.com/DevXtechnic/ojt10) -  (2 weeks ago)
 - [DevXtechnic/fish-prompt](https://github.com/DevXtechnic/fish-prompt) - My personal Fish shell prompt configuration using Oh My Posh, featuring powerline segments and Arch Linux styling. (1 month ago)
 - [DevXtechnic/Neopluse](https://github.com/DevXtechnic/Neopluse) -  (2 months ago)
 - [DevXtechnic/DevXtechnic.github.io](https://github.com/DevXtechnic/DevXtechnic.github.io) - Dive into my personal website, &#34;The Aura,&#34; a unique blend of AI insights, Linux adventures, and coding explorations. Expect interactive features, dynamic themes, and a dash of controlled chaos in this space-themed digital realm. A true reflection of my hacker spirit! 🚀🎨👾 (2 months ago)
