@@ -33,7 +33,7 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 
 ### 👷 Check out what I'm currently working on
 
-- [rudra-buildlab/kina_ai](https://github.com/rudra-buildlab/kina_ai) - 
+- [rudra-buildlab/Dukan](https://github.com/rudra-buildlab/Dukan) - 
 - [DevXtechnic/E-Commerce](https://github.com/DevXtechnic/E-Commerce) - A feature-rich Django e-commerce site with product filtering, shopping cart, user auth, and order tracking. Includes a CRM module and admin dashboard. Built as a school project to showcase full-stack development, database management, and responsive design.
 - [DevXtechnic/wallpapers](https://github.com/DevXtechnic/wallpapers) - A personal, curated wallpaper collection.
 - [DevXtechnic/RVX-UltraLock](https://github.com/DevXtechnic/RVX-UltraLock) - 
