@@ -18,15 +18,28 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub & Coding Stats
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/DevXtechnic/DevXtechnic/main/github-metrics.svg" />
 </p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DevXtechnic&show_icons=true&theme=radical&count_private=true" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXtechnic&layout=compact&theme=radical" width="400" />
+  <table border="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=DevXtechnic&show_icons=true&theme=radical&count_private=true" width="390" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXtechnic&layout=compact&theme=radical" width="390" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DevXtechnic&theme=radical&layout=compact" width="400" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -67,16 +80,16 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 
 ### 💻 About Me
 
-```bash
+```zsh
 neo@arch:~$ cat about_me.txt
-```
-I enjoy building **minimal systems** that are simple, efficient, and understandable.
+I enjoy building minimal systems that are simple, efficient, and understandable.
 
 Most of my work revolves around:
-* **Linux customization** (making it simple & fast)
-* **Small CLI utilities** (automating the mundane)
-* **AI experiments** (building efficient workflows)
-* **Development** (C++, Python, Bash)
+* Linux customization (making it simple & fast)
+* Small CLI utilities (automating the mundane)
+* AI experiments (building efficient workflows)
+* Development (C++, Python, Bash)
+```
 
 ---
 
@@ -95,7 +108,7 @@ Most of my work revolves around:
 
 ### 🖥️ System Info
 
-```bash
+```zsh
 neo@arch:~$ fastfetch --structure OS:WM:Shell:Editor:Languages:Focus
 ```
 
@@ -103,7 +116,7 @@ neo@arch:~$ fastfetch --structure OS:WM:Shell:Editor:Languages:Focus
 | :--- | :--- |
 | **OS** | Arch Linux |
 | **WM** | Hyprland |
-| **Shell** | fish |
+| **Shell** | zsh |
 | **Editor** | micro |
 | **Focus** | AI tools, Linux customization, minimal computing |
 
