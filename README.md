@@ -25,7 +25,7 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 </p>
 
 <p align="center">
-[![wakatime](https://wakatime.com/badge/user/07f2f83c-a4f8-407e-ac67-6aafb674ebf8.svg)](https://wakatime.com/@07f2f83c-a4f8-407e-ac67-6aafb674ebf8)
+<a href="https://wakatime.com/@07f2f83c-a4f8-407e-ac67-6aafb674ebf8"><img src="https://wakatime.com/badge/user/07f2f83c-a4f8-407e-ac67-6aafb674ebf8.svg" alt="Total time coded since May 27 2026" /></a>
 </p>
 
 <div align="center">
