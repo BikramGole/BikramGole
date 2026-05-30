@@ -24,6 +24,10 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 <img src="https://raw.githubusercontent.com/DevXtechnic/DevXtechnic/main/github-metrics.svg" />
 </p>
 
+<p align="center">
+[![wakatime](https://wakatime.com/badge/user/07f2f83c-a4f8-407e-ac67-6aafb674ebf8.svg)](https://wakatime.com/@07f2f83c-a4f8-407e-ac67-6aafb674ebf8)
+</p>
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=DevXtechnic&show_icons=true&theme=radical&count_private=true" width="400" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXtechnic&layout=compact&theme=radical" width="400" />
