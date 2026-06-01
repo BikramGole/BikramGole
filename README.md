@@ -61,7 +61,7 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 
 ### ⭐ Recent Stars
 
-- [rudratechlab/KinaHub](https://github.com/rudratechlab/KinaHub) - 
+- [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub) - 
 - [jeevannar16-web/branching](https://github.com/jeevannar16-web/branching) - 
 - [alisha947/cinema-booking](https://github.com/alisha947/cinema-booking) - 
 - [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources
