@@ -61,11 +61,11 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 
 ### ⭐ Recent Stars
 
+- [rudratechlab/KinaHub](https://github.com/rudratechlab/KinaHub) - 
 - [jeevannar16-web/branching](https://github.com/jeevannar16-web/branching) - 
 - [alisha947/cinema-booking](https://github.com/alisha947/cinema-booking) - 
 - [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources
 - [DevXtechnic/E-Commerce](https://github.com/DevXtechnic/E-Commerce) - A feature-rich Django e-commerce site with product filtering, shopping cart, user auth, and order tracking. Includes a CRM module and admin dashboard. Built as a school project to showcase full-stack development, database management, and responsive design.
-- [Rudraksha-1/Project-Kaanda](https://github.com/Rudraksha-1/Project-Kaanda) - Kaanda game is a game that Shaswat wanted to make between us friends
 
 ---
 
