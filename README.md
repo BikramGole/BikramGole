@@ -29,10 +29,8 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 </p>
 
 <div align="center">
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevXtechnic&theme=radical)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevXtechnic&theme=radical)
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevXtechnic&theme=radical)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevXtechnic&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=DevXtechnic&show_icons=true&theme=radical&count_private=true" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXtechnic&layout=compact&theme=radical" width="400" />
 </div>
 
 ---
