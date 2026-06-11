@@ -38,19 +38,19 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 
 ### 👷 Check out what I'm currently working on
 
+- [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
 - [DevXtechnic/RVX-UltraLock](https://github.com/DevXtechnic/RVX-UltraLock) - 
 - [DevXtechnic/wallpapers](https://github.com/DevXtechnic/wallpapers) - A personal, curated wallpaper collection.
 - [DevXtechnic/E-Commerce](https://github.com/DevXtechnic/E-Commerce) - A feature-rich Django e-commerce site with product filtering, shopping cart, user auth, and order tracking. Includes a CRM module and admin dashboard. Built as a school project to showcase full-stack development, database management, and responsive design.
 - [DevXtechnic/ojt10-2](https://github.com/DevXtechnic/ojt10-2) - 
-- [DevXtechnic/ojt10](https://github.com/DevXtechnic/ojt10) - 
 
 ### 🌱 My latest projects
 
+- [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
 - [DevXtechnic/ojt10-2](https://github.com/DevXtechnic/ojt10-2) - 
 - [DevXtechnic/E-Commerce](https://github.com/DevXtechnic/E-Commerce) - A feature-rich Django e-commerce site with product filtering, shopping cart, user auth, and order tracking. Includes a CRM module and admin dashboard. Built as a school project to showcase full-stack development, database management, and responsive design.
 - [DevXtechnic/RVX-UltraLock](https://github.com/DevXtechnic/RVX-UltraLock) - 
 - [DevXtechnic/ojt10](https://github.com/DevXtechnic/ojt10) - 
-- [DevXtechnic/fish-prompt](https://github.com/DevXtechnic/fish-prompt) - My personal Fish shell prompt configuration using Oh My Posh, featuring powerline segments and Arch Linux styling.
 
 ### 🔨 My recent Pull Requests
 
@@ -63,7 +63,7 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 ### ⭐ Recent Stars
 
 - [vivekmishraishere/yt-transcript-generator-everywhere](https://github.com/vivekmishraishere/yt-transcript-generator-everywhere) - 
-- [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub) - 
+- [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
 - [jeevannar16-web/branching](https://github.com/jeevannar16-web/branching) - 
 - [alisha947/cinema-booking](https://github.com/alisha947/cinema-booking) - 
 - [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources
