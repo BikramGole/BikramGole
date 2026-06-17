@@ -23,11 +23,11 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 <img src="https://raw.githubusercontent.com/DevXtechnic/DevXtechnic/main/github-metrics.svg" />
 </p>
 
-<p align="center">
+<p align="left">
 <a href="https://wakatime.com/@07f2f83c-a4f8-407e-ac67-6aafb674ebf8"><img src="https://wakatime.com/badge/user/07f2f83c-a4f8-407e-ac67-6aafb674ebf8.svg" alt="Total time coded since May 27 2026" /></a>
 </p>
 
-<div align="center">
+<div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevXtechnic&theme=radical" alt="Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevXtechnic&theme=radical" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevXtechnic&theme=radical" alt="Repos per Language" />
