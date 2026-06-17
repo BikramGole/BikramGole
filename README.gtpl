@@ -12,7 +12,7 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 </p>
 
 <p align="center">
-<a href="mailto:bikramgole.genius@keemail.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:bikramgole.genius@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -113,7 +113,7 @@ neo@arch:~$ fastfetch --structure OS:WM:Shell:Editor:Languages:Focus
 ---
 
 ### 📫 Reach Me
-- **Email**: [bikramgole.genius@keemail.me](mailto:bikramgole.genius@keemail.me)
+- **Email**: [bikramgole.genius@gmail.com](mailto:bikramgole.genius@gmail.com)
 - **GitHub**: [DevXtechnic](https://github.com/DevXtechnic)
 
 ---
