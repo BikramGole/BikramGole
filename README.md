@@ -19,12 +19,8 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 
 ### 📊 GitHub Stats
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/DevXtechnic/DevXtechnic/main/github-metrics.svg" />
-</p>
-
 <p align="center">
-<a href="https://wakatime.com/@07f2f83c-a4f8-407e-ac67-6aafb674ebf8"><img src="https://wakatime.com/badge/user/07f2f83c-a4f8-407e-ac67-6aafb674ebf8.svg" alt="Total time coded since May 27 2026" /></a>
+<img src="https://raw.githubusercontent.com/DevXtechnic/DevXtechnic/main/github-metrics.svg" />
 </p>
 
 <div align="center">
@@ -33,6 +29,10 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevXtechnic&theme=radical" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevXtechnic&theme=radical" alt="Most Commit Language" />
 </div>
+
+<p align="center">
+<a href="https://wakatime.com/@07f2f83c-a4f8-407e-ac67-6aafb674ebf8"><img src="https://wakatime.com/badge/user/07f2f83c-a4f8-407e-ac67-6aafb674ebf8.svg" alt="Total time coded since May 27 2026" /></a>
+</p>
 
 ---
 
