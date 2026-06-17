@@ -38,6 +38,85 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 
 ---
 
+### 👷 Check out what I'm currently working on
+
+- [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
+- [DevXtechnic/RVX-UltraLock](https://github.com/DevXtechnic/RVX-UltraLock) - 
+- [DevXtechnic/wallpapers](https://github.com/DevXtechnic/wallpapers) - A personal, curated wallpaper collection.
+- [DevXtechnic/E-Commerce](https://github.com/DevXtechnic/E-Commerce) - A feature-rich Django e-commerce site with product filtering, shopping cart, user auth, and order tracking. Includes a CRM module and admin dashboard. Built as a school project to showcase full-stack development, database management, and responsive design.
+- [DevXtechnic/ojt10-2](https://github.com/DevXtechnic/ojt10-2) - 
+
+### 🌱 My latest projects
+
+- [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
+- [DevXtechnic/ojt10-2](https://github.com/DevXtechnic/ojt10-2) - 
+- [DevXtechnic/E-Commerce](https://github.com/DevXtechnic/E-Commerce) - A feature-rich Django e-commerce site with product filtering, shopping cart, user auth, and order tracking. Includes a CRM module and admin dashboard. Built as a school project to showcase full-stack development, database management, and responsive design.
+- [DevXtechnic/RVX-UltraLock](https://github.com/DevXtechnic/RVX-UltraLock) - 
+- [DevXtechnic/ojt10](https://github.com/DevXtechnic/ojt10) - 
+
+### 🔨 My recent Pull Requests
+
+- [Master](https://github.com/DevXtechnic/E-Commerce/pull/1) on [DevXtechnic/E-Commerce](https://github.com/DevXtechnic/E-Commerce)
+- [Document Pair Extraordinaire collaboration](https://github.com/DevXtechnic/Neopluse/pull/5) on [DevXtechnic/Neopluse](https://github.com/DevXtechnic/Neopluse)
+- [Update README title for clarity](https://github.com/DevXtechnic/Neopluse/pull/4) on [DevXtechnic/Neopluse](https://github.com/DevXtechnic/Neopluse)
+- [Update README heading for clarity](https://github.com/DevXtechnic/Neopluse/pull/3) on [DevXtechnic/Neopluse](https://github.com/DevXtechnic/Neopluse)
+- [Update project name in README](https://github.com/DevXtechnic/Neopluse/pull/2) on [DevXtechnic/Neopluse](https://github.com/DevXtechnic/Neopluse)
+
+### ⭐ Recent Stars
+
+- [vivekmishraishere/yt-transcript-generator-everywhere](https://github.com/vivekmishraishere/yt-transcript-generator-everywhere) - 
+- [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
+- [jeevannar16-web/branching](https://github.com/jeevannar16-web/branching) - 
+- [alisha947/cinema-booking](https://github.com/alisha947/cinema-booking) - 
+- [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources
+
+---
+
+### 💻 About Me
+
+```bash
+neo@arch:~$ cat about_me.txt
+```
+I enjoy building **minimal systems** that are simple, efficient, and understandable.
+
+Most of my work revolves around:
+* **Linux customization** (making it simple & fast)
+* **Small CLI utilities** (automating the mundane)
+* **AI experiments** (building efficient workflows)
+* **Development** (C++, Python, Bash)
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+---
+
+### 🖥️ System Info
+
+```bash
+neo@arch:~$ fastfetch --structure OS:WM:Shell:Editor:Languages:Focus
+```
+
+| Component | Detail |
+| :--- | :--- |
+| **OS** | Arch Linux |
+| **WM** | Hyprland |
+| **Shell** | fish |
+| **Editor** | micro |
+| **Focus** | AI tools, Linux customization, minimal computing |
+
+---
+
+### 🐍 Contribution Snake
 <p align="center">
 <img src="https://raw.githubusercontent.com/DevXtechnic/DevXtechnic/output/github-snake.svg#gh-light-mode-only">
 <img src="https://raw.githubusercontent.com/DevXtechnic/DevXtechnic/output/github-snake-dark.svg#gh-dark-mode-only">
