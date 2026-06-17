@@ -110,7 +110,7 @@ neo@arch:~$ fastfetch --structure OS:WM:Shell:Editor:Languages:Focus
 | :--- | :--- |
 | **OS** | Arch Linux |
 | **WM** | Hyprland |
-| **Shell** | fish |
+| **Shell** | zsh |
 | **Editor** | micro |
 | **Focus** | AI tools, Linux customization, minimal computing |
 
