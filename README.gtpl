@@ -30,6 +30,8 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevXtechnic&theme=radical" alt="Most Commit Language" />
 </div>
 
+<br>
+
 <p align="center">
 <a href="https://wakatime.com/@07f2f83c-a4f8-407e-ac67-6aafb674ebf8"><img src="https://wakatime.com/badge/user/07f2f83c-a4f8-407e-ac67-6aafb674ebf8.svg" alt="Total time coded since May 27 2026" /></a>
 </p>
