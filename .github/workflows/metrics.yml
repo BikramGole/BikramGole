@@ -31,16 +31,8 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_limit: 8
           
-          # Coding Habits
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes
-          
-          # WakaTime (Detailed)
-          plugin_wakatime: yes
+          # WakaTime (Detailed) - Only if token is available
+          plugin_wakatime: ${{ secrets.WAKATIME_TOKEN != '' }}
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 7
           plugin_wakatime_sections: title, languages, languages-graphs, editors, os, projects, projects-graphs
