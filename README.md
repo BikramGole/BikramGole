@@ -41,7 +41,7 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 ### 👷 Check out what I'm currently working on
 
 - [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
-- [DevXtechnic/RVX-UltraLock](https://github.com/DevXtechnic/RVX-UltraLock) - 
+- [DevXtechnic/RVX-UltraLock](https://github.com/DevXtechnic/RVX-UltraLock) - 🔒 Focus-first YouTube RVX build with UltraLock. Block settings access for hours or forever to reduce distractions.
 - [DevXtechnic/wallpapers](https://github.com/DevXtechnic/wallpapers) - A personal, curated wallpaper collection.
 - [DevXtechnic/E-Commerce](https://github.com/DevXtechnic/E-Commerce) - A feature-rich Django e-commerce site with product filtering, shopping cart, user auth, and order tracking. Includes a CRM module and admin dashboard. Built as a school project to showcase full-stack development, database management, and responsive design.
 - [DevXtechnic/ojt10-2](https://github.com/DevXtechnic/ojt10-2) - 
@@ -51,7 +51,7 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 - [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
 - [DevXtechnic/ojt10-2](https://github.com/DevXtechnic/ojt10-2) - 
 - [DevXtechnic/E-Commerce](https://github.com/DevXtechnic/E-Commerce) - A feature-rich Django e-commerce site with product filtering, shopping cart, user auth, and order tracking. Includes a CRM module and admin dashboard. Built as a school project to showcase full-stack development, database management, and responsive design.
-- [DevXtechnic/RVX-UltraLock](https://github.com/DevXtechnic/RVX-UltraLock) - 
+- [DevXtechnic/RVX-UltraLock](https://github.com/DevXtechnic/RVX-UltraLock) - 🔒 Focus-first YouTube RVX build with UltraLock. Block settings access for hours or forever to reduce distractions.
 - [DevXtechnic/ojt10](https://github.com/DevXtechnic/ojt10) - 
 
 ### 🔨 My recent Pull Requests
