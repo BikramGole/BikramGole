@@ -64,11 +64,11 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 
 ### ⭐ Recent Stars
 
+- [Samrat-1267/ojt10](https://github.com/Samrat-1267/ojt10) - 
+- [habibishrawanshah-ctrl/onesteppharmacy](https://github.com/habibishrawanshah-ctrl/onesteppharmacy) - 
 - [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
 - [vivekmishraishere/yt-transcript-generator-everywhere](https://github.com/vivekmishraishere/yt-transcript-generator-everywhere) - 
 - [jeevannar16-web/branching](https://github.com/jeevannar16-web/branching) - 
-- [alisha947/cinema-booking](https://github.com/alisha947/cinema-booking) - 
-- [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources
 
 ---
 
