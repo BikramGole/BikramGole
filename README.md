@@ -64,11 +64,11 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 
 ### ⭐ Recent Stars
 
+- [Shaswatop/ChillX](https://github.com/Shaswatop/ChillX) - What if leveling up your digital world skills actually felt like leveling up in a game? That&#39;s ChillX — AI-powered challenges, real-time multiplayer, built by a gorup of Grade 10 graduate students for their OJT..
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 - [Samrat-1267/ojt10](https://github.com/Samrat-1267/ojt10) - 
 - [habibishrawanshah-ctrl/onesteppharmacy](https://github.com/habibishrawanshah-ctrl/onesteppharmacy) - 
 - [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
-- [vivekmishraishere/yt-transcript-generator-everywhere](https://github.com/vivekmishraishere/yt-transcript-generator-everywhere) - 
 
 ---
 
