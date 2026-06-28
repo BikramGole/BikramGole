@@ -25,7 +25,7 @@ jobs:
           config_timezone: Asia/Kathmandu
           
           # Languages
-          plugin_languages: yes
+          plugin_languages: no
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_indepth: yes
@@ -50,3 +50,19 @@ jobs:
           plugin_stars_limit: 4
           
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fix WakaTime totals to match badge
+        run: .github/scripts/fix-wakatime.sh
+
+      - name: Commit fix
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add github-metrics.svg
+          git diff --staged --quiet || git commit -m "fix: sync WakaTime total with badge"
+          git push
