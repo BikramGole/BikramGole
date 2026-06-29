@@ -21,7 +21,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: DevXtechnic
           template: classic
-          base: header, community, repositories, metadata
+          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kathmandu
           
           # Languages
