@@ -30,6 +30,10 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevXtechnic&theme=radical" alt="Most Commit Language" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevXtechnic&theme=radical" alt="GitHub Streak" />
+</div>
+
 <br>
 
 <p align="center">
