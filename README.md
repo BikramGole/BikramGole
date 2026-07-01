@@ -60,9 +60,9 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 
 ### 🔨 My recent Pull Requests
 
-- [fix: N&#43;1 Query [autofix]](https://github.com/DevXtechnic/DevXtechnic.github.io/pull/3) on [DevXtechnic/DevXtechnic.github.io](https://github.com/DevXtechnic/DevXtechnic.github.io)
-- [fix: N&#43;1 Query [autofix]](https://github.com/DevXtechnic/KinaHub/pull/62) on [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub)
-- [fix: N&#43;1 Query [autofix]](https://github.com/DevXtechnic/KinaHub/pull/61) on [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub)
+- [fix: N&#43;1 Query [autofix]](https://github.com/DevXtechnic/KinaHub/pull/64) on [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub)
+- [fix: N&#43;1 Query [autofix]](https://github.com/DevXtechnic/KinaHub/pull/63) on [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub)
+- [fix: N&#43;1 Query [autofix]](https://github.com/DevXtechnic/DevXtechnic.github.io/pull/4) on [DevXtechnic/DevXtechnic.github.io](https://github.com/DevXtechnic/DevXtechnic.github.io)
 
 ### ⭐ Recent Stars
 
