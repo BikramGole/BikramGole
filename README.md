@@ -60,17 +60,17 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 
 ### 🔨 My recent Pull Requests
 
-- [fix: N&#43;1 Query [autofix]](https://github.com/DevXtechnic/KinaHub/pull/64) on [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub)
-- [fix: N&#43;1 Query [autofix]](https://github.com/DevXtechnic/KinaHub/pull/63) on [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub)
-- [fix: N&#43;1 Query [autofix]](https://github.com/DevXtechnic/DevXtechnic.github.io/pull/4) on [DevXtechnic/DevXtechnic.github.io](https://github.com/DevXtechnic/DevXtechnic.github.io)
+- [fix: N&#43;1 Query [autofix]](https://github.com/DevXtechnic/KinaHub/pull/69) on [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub)
+- [fix: N&#43;1 Query [autofix]](https://github.com/DevXtechnic/DevXtechnic.github.io/pull/6) on [DevXtechnic/DevXtechnic.github.io](https://github.com/DevXtechnic/DevXtechnic.github.io)
+- [fix: TypeError: Failed to fetch dynamically imported module: https://kinahub.vercel.app/assets/Products-BFXASfhV.js [autofix]](https://github.com/DevXtechnic/DevXtechnic.github.io/pull/5) on [DevXtechnic/DevXtechnic.github.io](https://github.com/DevXtechnic/DevXtechnic.github.io)
 
 ### ⭐ Recent Stars
 
-- [jeevannar16-web/Ojt-Ecommerce-Website](https://github.com/jeevannar16-web/Ojt-Ecommerce-Website) - Fitness Hub - Django Fitness Platform
-- [DevXtechnic/DevXtechnic](https://github.com/DevXtechnic/DevXtechnic) - Minimalist builder from Nepal. Arch Linux, C&#43;&#43;, Python, AI tools, and open-source. Creating fast systems, useful software, and questionable amounts of terminal output.
-- [Shaswatop/ChillX](https://github.com/Shaswatop/ChillX) - What if leveling up your digital world skills actually felt like leveling up in a game? That&#39;s ChillX — AI-powered challenges, real-time multiplayer, built by a gorup of Grade 10 graduate students for their OJT..
-- [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
-- [Samrat-1267/ojt10](https://github.com/Samrat-1267/ojt10) - 
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+- [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) - A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free AI gateway: one endpoint, 231&#43; providers (50&#43; free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK&#43;Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+- [facebook/astryx](https://github.com/facebook/astryx) - An open source design system that&#39;s fully customizable and agent ready
 
 ---
 
