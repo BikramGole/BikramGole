@@ -60,11 +60,9 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 
 ### 🔨 My recent Pull Requests
 
-- [Auto-fix: Sentry Error: WORKER TIMEOUT (pid:126)](https://github.com/DevXtechnic/KinaHub/pull/56) on [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub)
-- [Auto-fix: Sentry Error: NameError: name &#39;ok&#39; is not defined](https://github.com/DevXtechnic/KinaHub/pull/55) on [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub)
-- [Auto-fix: Sentry Error: Worker (pid:126) was sent SIGKILL! Perhaps out of memory?](https://github.com/DevXtechnic/KinaHub/pull/54) on [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub)
-- [Auto-fix: Sentry Error: IndentationError: unexpected indent (urls.py, line 17)](https://github.com/DevXtechnic/KinaHub/pull/53) on [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub)
-- [Auto-fix: Sentry Error: IndentationError: unexpected indent (urls.py, line 17)](https://github.com/DevXtechnic/KinaHub/pull/52) on [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub)
+- [fix: N&#43;1 Query [autofix]](https://github.com/DevXtechnic/DevXtechnic.github.io/pull/3) on [DevXtechnic/DevXtechnic.github.io](https://github.com/DevXtechnic/DevXtechnic.github.io)
+- [fix: N&#43;1 Query [autofix]](https://github.com/DevXtechnic/KinaHub/pull/62) on [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub)
+- [fix: N&#43;1 Query [autofix]](https://github.com/DevXtechnic/KinaHub/pull/61) on [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub)
 
 ### ⭐ Recent Stars
 
