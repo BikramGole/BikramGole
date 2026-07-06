@@ -68,11 +68,11 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 
 ### ⭐ Recent Stars
 
+- [jeevannar16-web/jeevannar16-web](https://github.com/jeevannar16-web/jeevannar16-web) - 
 - [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 - [martsallan/goal-opencode](https://github.com/martsallan/goal-opencode) - Installable OpenCode plugin that brings Claude Code/Codex-style /goal mode to OpenCode, with persistent objectives, auto-continuation, completion detection, and a live TUI sidebar.
 - [jeevannar16-web/Java-class-11-](https://github.com/jeevannar16-web/Java-class-11-) - 
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-- [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) - A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.
 
 ---
 
