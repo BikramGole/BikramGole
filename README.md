@@ -70,7 +70,7 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 
 - [jeevannar16-web/Ojt-Ecommerce-Website](https://github.com/jeevannar16-web/Ojt-Ecommerce-Website) - Fitness Hub - Django Fitness Platform
 - [jeevannar16-web/jeevannar16-web](https://github.com/jeevannar16-web/jeevannar16-web) - 
-- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
+- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) - OpenWiki is a CLI that writes and maintains agent wikis for codebases or purpose memory.
 - [martsallan/goal-opencode](https://github.com/martsallan/goal-opencode) - Installable OpenCode plugin that brings Claude Code/Codex-style /goal mode to OpenCode, with persistent objectives, auto-continuation, completion detection, and a live TUI sidebar.
 - [jeevannar16-web/Java-class-11-](https://github.com/jeevannar16-web/Java-class-11-) - 
 
