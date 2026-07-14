@@ -60,11 +60,11 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 
 ### 🔨 My recent Pull Requests
 
+- [docs: update README with hosted site status warning](https://github.com/Rockyffgod/OJT/pull/1) on [Rockyffgod/OJT](https://github.com/Rockyffgod/OJT)
 - [Swap demo/walkthrough sections in README](https://github.com/DevXtechnic/KinaHub/pull/72) on [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub)
 - [fix: use dynamic PROJECT_SLUG in sentry-event-checker](https://github.com/DevXtechnic/KinaHub/pull/71) on [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub)
 - [fix: auto-close GitHub issues when Sentry issues resolved &#43; project filter](https://github.com/DevXtechnic/KinaHub/pull/70) on [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub)
 - [fix: N&#43;1 Query [autofix]](https://github.com/DevXtechnic/KinaHub/pull/69) on [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub)
-- [fix: N&#43;1 Query [autofix]](https://github.com/DevXtechnic/DevXtechnic.github.io/pull/6) on [DevXtechnic/DevXtechnic.github.io](https://github.com/DevXtechnic/DevXtechnic.github.io)
 
 ### ⭐ Recent Stars
 
