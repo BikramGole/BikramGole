@@ -68,11 +68,11 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 
 ### ⭐ Recent Stars
 
+- [jeevannar16-web/OS-installation](https://github.com/jeevannar16-web/OS-installation) - Interactive OS installation simulator — practice installing Ubuntu, Windows &amp; more before doing it for real.
 - [fyrash/fyra-cli](https://github.com/fyrash/fyra-cli) - CLI-first static site host. Deploys to bare metal. No AWS. No GCP. AI agent support via llms.txt.
 - [vercel-labs/native](https://github.com/vercel-labs/native) - Toolkit for building native desktop apps
 - [jeevannar16-web/Ojt-Ecommerce-Website](https://github.com/jeevannar16-web/Ojt-Ecommerce-Website) - Fitness Hub - Django Fitness Platform
 - [jeevannar16-web/jeevannar16-web](https://github.com/jeevannar16-web/jeevannar16-web) - 
-- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 
 ---
 
