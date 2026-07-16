@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=750&lines=neo%40arch%3A~%24+whoami;Bikram+Gole;AURA+Farmer;Arch+Linux+Minimalist;C%2B%2B+Developer;Python+%2B+AI+Experimenter;Software+should+be+free+(as+in+freedom)" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=750&lines=neo%40LFS%3A~%24+whoami;Bikram+Gole;AURA+Farmer;LFS+Minimalist;C%2B%2B+Developer;Python+%2B+AI+Experimenter;Software+should+be+free+(as+in+freedom)" />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 <h2 align="center">Bikram Gole — AURA farmer</h2>
 <p align="center">
-Minimalist systems • Arch Linux • C++ • Python • AI tools
+Minimalist systems • LFS • C++ • Python • AI tools
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 ### 💻 About Me
 
 ```bash
-neo@arch:~$ cat about_me.txt
+neo@LFS:~$ cat about_me.txt
 ```
 I enjoy building **minimal systems** that are simple, efficient, and understandable.
 
@@ -95,12 +95,12 @@ Most of my work revolves around:
 ### 🖥️ System Info
 
 ```bash
-neo@arch:~$ fastfetch --structure OS:WM:Shell:Editor:Languages:Focus
+neo@LFS:~$ fastfetch --structure OS:WM:Shell:Editor:Languages:Focus
 ```
 
 | Component | Detail |
 | :--- | :--- |
-| **OS** | Arch Linux |
+| **OS** | LFS |
 | **WM** | Hyprland |
 | **Shell** | zsh |
 | **Editor** | micro |
