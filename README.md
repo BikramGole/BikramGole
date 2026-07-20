@@ -68,11 +68,11 @@ Minimalist systems • LFS • C++ • Python • AI tools
 
 ### ⭐ Recent Stars
 
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [lfs-book/LSB-Tools](https://github.com/lfs-book/LSB-Tools) - Distro agnostic tools for LSB spec compliance
 - [lfs-book/lfs-live](https://github.com/lfs-book/lfs-live) - Creating a LiveCD from LFS
 - [iam-veeramalla/ultimate-linux-guide](https://github.com/iam-veeramalla/ultimate-linux-guide) - Ultimate guide to learn Linux from scratch.
 - [jeevannar16-web/OS-installation](https://github.com/jeevannar16-web/OS-installation) - Interactive OS installation simulator — practice installing Ubuntu, Windows &amp; more before doing it for real.
-- [fyrash/fyra-cli](https://github.com/fyrash/fyra-cli) - CLI-first static site host. Deploys to bare metal. No AWS. No GCP. AI agent support via llms.txt.
 
 ---
 
