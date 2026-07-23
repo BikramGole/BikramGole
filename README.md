@@ -44,35 +44,35 @@ Minimalist systems • LFS • C++ • Python • AI tools
 
 ### 👷 Check out what I'm currently working on
 
-- [DevXtechnic/Neopluse](https://github.com/DevXtechnic/Neopluse) - 
-- [DevXtechnic/control-center](https://github.com/DevXtechnic/control-center) - 
-- [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
-- [DevXtechnic/Bikram](https://github.com/DevXtechnic/Bikram) - Dive into my personal website, &#34;The Aura,&#34; a unique blend of AI insights, Linux adventures, and coding explorations. Expect interactive features, dynamic themes, and a dash of controlled chaos in this space-themed digital realm. A true reflection of my hacker spirit! 🚀🎨👾
-- [DevXtechnic/JavaAssignment](https://github.com/DevXtechnic/JavaAssignment) - 
+- [BikramGole/Neopluse](https://github.com/BikramGole/Neopluse) - 
+- [BikramGole/control-center](https://github.com/BikramGole/control-center) - 
+- [BikramGole/KinaHub](https://github.com/BikramGole/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
+- [BikramGole/Bikram](https://github.com/BikramGole/Bikram) - Dive into my personal website, &#34;The Aura,&#34; a unique blend of AI insights, Linux adventures, and coding explorations. Expect interactive features, dynamic themes, and a dash of controlled chaos in this space-themed digital realm. A true reflection of my hacker spirit! 🚀🎨👾
+- [BikramGole/JavaAssignment](https://github.com/BikramGole/JavaAssignment) - 
 
 ### 🌱 My latest projects
 
-- [DevXtechnic/control-center](https://github.com/DevXtechnic/control-center) - 
-- [DevXtechnic/JavaAssignment](https://github.com/DevXtechnic/JavaAssignment) - 
-- [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
-- [DevXtechnic/ojt10-2](https://github.com/DevXtechnic/ojt10-2) - 
-- [DevXtechnic/E-Commerce](https://github.com/DevXtechnic/E-Commerce) - A feature-rich Django e-commerce site with product filtering, shopping cart, user auth, and order tracking. Includes a CRM module and admin dashboard. Built as a school project to showcase full-stack development, database management, and responsive design.
+- [BikramGole/control-center](https://github.com/BikramGole/control-center) - 
+- [BikramGole/JavaAssignment](https://github.com/BikramGole/JavaAssignment) - 
+- [BikramGole/KinaHub](https://github.com/BikramGole/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
+- [BikramGole/ojt10-2](https://github.com/BikramGole/ojt10-2) - 
+- [BikramGole/E-Commerce](https://github.com/BikramGole/E-Commerce) - A feature-rich Django e-commerce site with product filtering, shopping cart, user auth, and order tracking. Includes a CRM module and admin dashboard. Built as a school project to showcase full-stack development, database management, and responsive design.
 
 ### 🔨 My recent Pull Requests
 
 - [docs: update README with hosted site status warning](https://github.com/Rockyffgod/OJT/pull/1) on [Rockyffgod/OJT](https://github.com/Rockyffgod/OJT)
-- [Swap demo/walkthrough sections in README](https://github.com/DevXtechnic/KinaHub/pull/72) on [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub)
-- [fix: use dynamic PROJECT_SLUG in sentry-event-checker](https://github.com/DevXtechnic/KinaHub/pull/71) on [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub)
-- [fix: auto-close GitHub issues when Sentry issues resolved &#43; project filter](https://github.com/DevXtechnic/KinaHub/pull/70) on [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub)
-- [fix: N&#43;1 Query [autofix]](https://github.com/DevXtechnic/KinaHub/pull/69) on [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub)
+- [Swap demo/walkthrough sections in README](https://github.com/BikramGole/KinaHub/pull/72) on [BikramGole/KinaHub](https://github.com/BikramGole/KinaHub)
+- [fix: use dynamic PROJECT_SLUG in sentry-event-checker](https://github.com/BikramGole/KinaHub/pull/71) on [BikramGole/KinaHub](https://github.com/BikramGole/KinaHub)
+- [fix: auto-close GitHub issues when Sentry issues resolved &#43; project filter](https://github.com/BikramGole/KinaHub/pull/70) on [BikramGole/KinaHub](https://github.com/BikramGole/KinaHub)
+- [fix: N&#43;1 Query [autofix]](https://github.com/BikramGole/KinaHub/pull/69) on [BikramGole/KinaHub](https://github.com/BikramGole/KinaHub)
 
 ### ⭐ Recent Stars
 
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+- [swaywm/swaybg](https://github.com/swaywm/swaybg) - Wallpaper tool for Wayland compositors
 - [pratikshakhadga/AI-Study-Buddy](https://github.com/pratikshakhadga/AI-Study-Buddy) - AI Powered web app 
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [lfs-book/LSB-Tools](https://github.com/lfs-book/LSB-Tools) - Distro agnostic tools for LSB spec compliance
 
 ---
 
