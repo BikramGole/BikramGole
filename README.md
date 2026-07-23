@@ -47,7 +47,7 @@ Minimalist systems • LFS • C++ • Python • AI tools
 - [DevXtechnic/Neopluse](https://github.com/DevXtechnic/Neopluse) - 
 - [DevXtechnic/control-center](https://github.com/DevXtechnic/control-center) - 
 - [DevXtechnic/KinaHub](https://github.com/DevXtechnic/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
-- [DevXtechnic/DevXtechnic.github.io](https://github.com/DevXtechnic/DevXtechnic.github.io) - Dive into my personal website, &#34;The Aura,&#34; a unique blend of AI insights, Linux adventures, and coding explorations. Expect interactive features, dynamic themes, and a dash of controlled chaos in this space-themed digital realm. A true reflection of my hacker spirit! 🚀🎨👾
+- [DevXtechnic/Bikram](https://github.com/DevXtechnic/Bikram) - Dive into my personal website, &#34;The Aura,&#34; a unique blend of AI insights, Linux adventures, and coding explorations. Expect interactive features, dynamic themes, and a dash of controlled chaos in this space-themed digital realm. A true reflection of my hacker spirit! 🚀🎨👾
 - [DevXtechnic/JavaAssignment](https://github.com/DevXtechnic/JavaAssignment) - 
 
 ### 🌱 My latest projects
