@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/DevXtechnic/DevXtechnic/main/assets/banner.svg" width="850">
+<img src="https://raw.githubusercontent.com/BikramGole/BikramGole/main/assets/banner.svg" width="850">
 </p>
 
 <h2 align="center">Bikram Gole — AURA farmer</h2>
@@ -20,18 +20,18 @@ Minimalist systems • LFS • C++ • Python • AI tools
 ### 📊 GitHub Stats
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/DevXtechnic/DevXtechnic/main/github-metrics.svg" />
+<img src="https://raw.githubusercontent.com/BikramGole/BikramGole/main/github-metrics.svg" />
 </p>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevXtechnic&theme=radical" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevXtechnic&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevXtechnic&theme=radical" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevXtechnic&theme=radical" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BikramGole&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BikramGole&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BikramGole&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BikramGole&theme=radical" alt="Most Commit Language" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevXtechnic&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BikramGole&theme=radical" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -122,18 +122,18 @@ neo@LFS:~$ fastfetch --structure OS:WM:Shell:Editor:Languages:Focus
 
 ### 🐍 Contribution Snake
 <p align="center">
-<img src="https://raw.githubusercontent.com/DevXtechnic/DevXtechnic/output/github-snake.svg#gh-light-mode-only">
-<img src="https://raw.githubusercontent.com/DevXtechnic/DevXtechnic/output/github-snake-dark.svg#gh-dark-mode-only">
+<img src="https://raw.githubusercontent.com/BikramGole/BikramGole/output/github-snake.svg#gh-light-mode-only">
+<img src="https://raw.githubusercontent.com/BikramGole/BikramGole/output/github-snake-dark.svg#gh-dark-mode-only">
 </p>
 
 ---
 
 ### 📫 Reach Me
 - **Email**: [bikramgole.genius@gmail.com](mailto:bikramgole.genius@gmail.com)
-- **GitHub**: [DevXtechnic](https://github.com/DevXtechnic)
+- **GitHub**: [BikramGole](https://github.com/BikramGole)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevXtechnic&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=BikramGole&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
