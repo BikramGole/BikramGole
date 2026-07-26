@@ -68,11 +68,11 @@ Minimalist systems • LFS • C++ • Python • AI tools
 
 ### ⭐ Recent Stars
 
+- [jeevannar16-web/arch-hyprland-dotfiles](https://github.com/jeevannar16-web/arch-hyprland-dotfiles) - My personal Arch Linux &#43; Hyprland dotfiles, based on end-4/dots-hyprland
 - [cliffordfajardo/awesome-web-browsers](https://github.com/cliffordfajardo/awesome-web-browsers) - 🕸A list of awesome web browsers for desktop, mobile, terminals, text editors etc
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [swaywm/swaybg](https://github.com/swaywm/swaybg) - Wallpaper tool for Wayland compositors
 - [pratikshakhadga/AI-Study-Buddy](https://github.com/pratikshakhadga/AI-Study-Buddy) - AI Powered web app 
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 
 ---
 
