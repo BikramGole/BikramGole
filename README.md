@@ -44,10 +44,10 @@ Minimalist systems • LFS • C++ • Python • AI tools
 
 ### 👷 Check out what I'm currently working on
 
+- [BikramGole/Bikram](https://github.com/BikramGole/Bikram) - Dive into my personal website, &#34;The Aura,&#34; a unique blend of AI insights, Linux adventures, and coding explorations. Expect interactive features, dynamic themes, and a dash of controlled chaos in this space-themed digital realm. A true reflection of my hacker spirit! 🚀🎨👾
 - [BikramGole/Neopluse](https://github.com/BikramGole/Neopluse) - 
 - [BikramGole/control-center](https://github.com/BikramGole/control-center) - 
 - [BikramGole/KinaHub](https://github.com/BikramGole/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
-- [BikramGole/Bikram](https://github.com/BikramGole/Bikram) - Dive into my personal website, &#34;The Aura,&#34; a unique blend of AI insights, Linux adventures, and coding explorations. Expect interactive features, dynamic themes, and a dash of controlled chaos in this space-themed digital realm. A true reflection of my hacker spirit! 🚀🎨👾
 - [BikramGole/JavaAssignment](https://github.com/BikramGole/JavaAssignment) - 
 
 ### 🌱 My latest projects
@@ -68,11 +68,11 @@ Minimalist systems • LFS • C++ • Python • AI tools
 
 ### ⭐ Recent Stars
 
+- [ardamoustafa1/ardamoustafa1](https://github.com/ardamoustafa1/ardamoustafa1) - AI Engineer building production-ready backend systems, scalable APIs, and real-world machine learning infrastructure.
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [cliffordfajardo/awesome-web-browsers](https://github.com/cliffordfajardo/awesome-web-browsers) - 🕸A list of awesome web browsers for desktop, mobile, terminals, text editors etc
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-- [swaywm/swaybg](https://github.com/swaywm/swaybg) - Wallpaper tool for Wayland compositors
 
 ---
 
