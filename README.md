@@ -44,10 +44,10 @@ Minimalist systems • LFS • C++ • Python • AI tools
 
 ### 👷 Check out what I'm currently working on
 
+- [BikramGole/KinaHub](https://github.com/BikramGole/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
 - [BikramGole/Bikram](https://github.com/BikramGole/Bikram) - Dive into my personal website, &#34;The Aura,&#34; a unique blend of AI insights, Linux adventures, and coding explorations. Expect interactive features, dynamic themes, and a dash of controlled chaos in this space-themed digital realm. A true reflection of my hacker spirit! 🚀🎨👾
 - [BikramGole/Neopluse](https://github.com/BikramGole/Neopluse) - 
 - [BikramGole/control-center](https://github.com/BikramGole/control-center) - 
-- [BikramGole/KinaHub](https://github.com/BikramGole/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
 - [BikramGole/JavaAssignment](https://github.com/BikramGole/JavaAssignment) - 
 
 ### 🌱 My latest projects
