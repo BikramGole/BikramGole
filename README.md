@@ -68,11 +68,11 @@ Minimalist systems • LFS • C++ • Python • AI tools
 
 ### ⭐ Recent Stars
 
+- [sagarshahi865/fitness-hub](https://github.com/sagarshahi865/fitness-hub) - 
 - [ardamoustafa1/ardamoustafa1](https://github.com/ardamoustafa1/ardamoustafa1) - AI Engineer building production-ready backend systems, scalable APIs, and real-world machine learning infrastructure.
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [cliffordfajardo/awesome-web-browsers](https://github.com/cliffordfajardo/awesome-web-browsers) - 🕸A list of awesome web browsers for desktop, mobile, terminals, text editors etc
-- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
 ---
 
