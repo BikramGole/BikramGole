@@ -68,11 +68,11 @@ Minimalist systems • LFS • C++ • Python • AI tools
 
 ### ⭐ Recent Stars
 
-- [SunuwarAakriti123/Marksheet](https://github.com/SunuwarAakriti123/Marksheet) - 
-- [sagarshahi865/fitness-hub](https://github.com/sagarshahi865/fitness-hub) - 
-- [ardamoustafa1/ardamoustafa1](https://github.com/ardamoustafa1/ardamoustafa1) - AI Engineer building production-ready backend systems, scalable APIs, and real-world machine learning infrastructure.
-- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
+- [BikramGole/hyprland-cava-underlay](https://github.com/BikramGole/hyprland-cava-underlay) - A Hyprland setup that embeds Cava as a transparent, audio-reactive underlay behind windows—because having music bars behind everything is cooler than being productive.
+- [BikramGole/fish-prompt](https://github.com/BikramGole/fish-prompt) - My personal Fish shell prompt configuration using Oh My Posh, featuring powerline segments and Arch Linux styling.
+- [BikramGole/ojt10](https://github.com/BikramGole/ojt10) - 
+- [BikramGole/ojt10-2](https://github.com/BikramGole/ojt10-2) - 
+- [BikramGole/E-Commerce](https://github.com/BikramGole/E-Commerce) - A feature-rich Django e-commerce site with product filtering, shopping cart, user auth, and order tracking. Includes a CRM module and admin dashboard. Built as a school project to showcase full-stack development, database management, and responsive design.
 
 ---
 
@@ -113,9 +113,9 @@ neo@LFS:~$ fastfetch --structure OS:WM:Shell:Editor:Languages:Focus
 | Component | Detail |
 | :--- | :--- |
 | **OS** | LFS |
-| **WM** | Hyprland |
-| **Shell** | zsh |
-| **Editor** | micro |
+| **WM** | DWL |
+| **Shell** | Bash |
+| **Editor** | Neovim |
 | **Focus** | AI tools, Linux customization, minimal computing |
 
 ---
@@ -130,6 +130,7 @@ neo@LFS:~$ fastfetch --structure OS:WM:Shell:Editor:Languages:Focus
 
 ### 📫 Reach Me
 - **Email**: [bikramgole.genius@gmail.com](mailto:bikramgole.genius@gmail.com)
+ **Email**: [er@bikramgole.com.np](mailto:er@@bikramgole.com.np)
 - **GitHub**: [BikramGole](https://github.com/BikramGole)
 
 ---
