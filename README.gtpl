@@ -101,9 +101,9 @@ neo@LFS:~$ fastfetch --structure OS:WM:Shell:Editor:Languages:Focus
 | Component | Detail |
 | :--- | :--- |
 | **OS** | LFS |
-| **WM** | Hyprland |
-| **Shell** | zsh |
-| **Editor** | micro |
+| **WM** | DWL |
+| **Shell** | Bash |
+| **Editor** | Neovim |
 | **Focus** | AI tools, Linux customization, minimal computing |
 
 ---
@@ -118,6 +118,7 @@ neo@LFS:~$ fastfetch --structure OS:WM:Shell:Editor:Languages:Focus
 
 ### 📫 Reach Me
 - **Email**: [bikramgole.genius@gmail.com](mailto:bikramgole.genius@gmail.com)
+ **Email**: [er@bikramgole.com.np](mailto:er@@bikramgole.com.np)
 - **GitHub**: [BikramGole](https://github.com/BikramGole)
 
 ---
