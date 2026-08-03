@@ -68,11 +68,11 @@ Minimalist systems • LFS • C++ • Python • AI tools
 
 ### ⭐ Recent Stars
 
+- [FitHub-4/FitHub-4](https://github.com/FitHub-4/FitHub-4) - 
+- [FitHub-4/Fitness-Hub](https://github.com/FitHub-4/Fitness-Hub) - All of ojt project result
+- [Rockyffgod/OJT](https://github.com/Rockyffgod/OJT) - yeah in my main account nerds
 - [BikramGole/hyprland-cava-underlay](https://github.com/BikramGole/hyprland-cava-underlay) - A Hyprland setup that embeds Cava as a transparent, audio-reactive underlay behind windows—because having music bars behind everything is cooler than being productive.
 - [BikramGole/fish-prompt](https://github.com/BikramGole/fish-prompt) - My personal Fish shell prompt configuration using Oh My Posh, featuring powerline segments and Arch Linux styling.
-- [BikramGole/ojt10](https://github.com/BikramGole/ojt10) - 
-- [BikramGole/ojt10-2](https://github.com/BikramGole/ojt10-2) - 
-- [BikramGole/E-Commerce](https://github.com/BikramGole/E-Commerce) - A feature-rich Django e-commerce site with product filtering, shopping cart, user auth, and order tracking. Includes a CRM module and admin dashboard. Built as a school project to showcase full-stack development, database management, and responsive design.
 
 ---
 
