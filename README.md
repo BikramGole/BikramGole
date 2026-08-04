@@ -68,11 +68,11 @@ Minimalist systems • LFS • C++ • Python • AI tools
 
 ### ⭐ Recent Stars
 
+- [sagarshahi865/sagarshahi865](https://github.com/sagarshahi865/sagarshahi865) - 
 - [jeevannar16-web/Nepal-3d-portfolio](https://github.com/jeevannar16-web/Nepal-3d-portfolio) - Interactive 3D portfolio of Kathmandu, Nepal — drive through a stylized valley to explore my work. Built with React Three Fiber, Rapier physics, and geolocation-aware intro sequences.
 - [FitHub-4/FitHub-4](https://github.com/FitHub-4/FitHub-4) - 
 - [FitHub-4/Fitness-Hub](https://github.com/FitHub-4/Fitness-Hub) - All of ojt project result
 - [Rockyffgod/OJT](https://github.com/Rockyffgod/OJT) - yeah in my main account nerds
-- [BikramGole/hyprland-cava-underlay](https://github.com/BikramGole/hyprland-cava-underlay) - A Hyprland setup that embeds Cava as a transparent, audio-reactive underlay behind windows—because having music bars behind everything is cooler than being productive.
 
 ---
 
