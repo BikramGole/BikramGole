@@ -68,11 +68,11 @@ Minimalist systems • LFS • C++ • Python • AI tools
 
 ### ⭐ Recent Stars
 
+- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI 
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [sagarshahi865/sagarshahi865](https://github.com/sagarshahi865/sagarshahi865) - 
 - [jeevannar16-web/Nepal-3d-portfolio](https://github.com/jeevannar16-web/Nepal-3d-portfolio) - Interactive 3D portfolio of Kathmandu, Nepal — drive through a stylized valley to explore my work. Built with React Three Fiber, Rapier physics, and geolocation-aware intro sequences.
-- [FitHub-4/FitHub-4](https://github.com/FitHub-4/FitHub-4) - 
-- [FitHub-4/Fitness-Hub](https://github.com/FitHub-4/Fitness-Hub) - All of ojt project result
-- [Rockyffgod/OJT](https://github.com/Rockyffgod/OJT) - yeah in my main account nerds
 
 ---
 
