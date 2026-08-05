@@ -93,7 +93,7 @@
       <rect x="54" y="528" width="1092" height="103" rx="22" fill="#08090e" stroke="#fff" stroke-opacity=".11"/>
       <text x="76" y="555" class="mono" font-size="10" fill="#70707a" letter-spacing="1.6">MERGED TELEMETRY</text>
       <g transform="translate(76 573)">
-        <text y="17" class="sans" font-size="27" font-weight="750" fill="#f5f5f7">100+</text><text x="70" y="15" class="mono" font-size="10" fill="#75757f">COMMITS</text><text x="70" y="28" class="mono" font-size="10" fill="#75757f">SHIPPED</text>
+        <text y="17" class="sans" font-size="27" font-weight="750" fill="#f5f5f7">1000+</text><text x="70" y="15" class="mono" font-size="10" fill="#75757f">COMMITS</text><text x="70" y="28" class="mono" font-size="10" fill="#75757f">SHIPPED</text>
       </g>
       <path d="M217 552V610M420 552V610M624 552V610M828 552V610" stroke="#fff" stroke-opacity=".09"/>
       <g transform="translate(247 573)"><text y="17" class="sans" font-size="27" font-weight="750" fill="#f5f5f7">03+</text><text x="44" y="15" class="mono" font-size="10" fill="#75757f">DEPLOYED</text><text x="44" y="28" class="mono" font-size="10" fill="#75757f">PRODUCTS</text></g>
