@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Explore_Portfolio-FFFFFF?style=for-the-badge&logo=safari&logoColor=000000)](https://devxtechnic.github.io)
+[![Portfolio](https://img.shields.io/badge/Explore_Portfolio-FFFFFF?style=for-the-badge&logo=safari&logoColor=000000)](https://bikramgole.com.np)
 [![LinkedIn](https://img.shields.io/badge/GitHub-111318?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/BikramGole)
 [![Email](https://img.shields.io/badge/Email-111318?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:bikramgole.genius@gmail.com)
 
@@ -76,18 +76,18 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-111318?style=flat-square&logo=linux&logoColor=FFFFFF)
-![C](https://img.shields.io/badge/C-111318?style=flat-square&logo=c&logoColor=FFFFFF)
-![C++](https://img.shields.io/badge/C%2B%2B-111318?style=flat-square&logo=cplusplus&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/Python-111318?style=flat-square&logo=python&logoColor=FFFFFF)
-![Bash](https://img.shields.io/badge/Bash-111318?style=flat-square&logo=gnubash&logoColor=FFFFFF)
-![Django](https://img.shields.io/badge/Django-111318?style=flat-square&logo=django&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/React-111318?style=flat-square&logo=react&logoColor=FFFFFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-111318?style=flat-square&logo=typescript&logoColor=FFFFFF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111318?style=flat-square&logo=postgresql&logoColor=FFFFFF)
-![Docker](https://img.shields.io/badge/Docker-111318?style=flat-square&logo=docker&logoColor=FFFFFF)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111318?style=flat-square&logo=githubactions&logoColor=FFFFFF)
-![Neovim](https://img.shields.io/badge/Neovim-111318?style=flat-square&logo=neovim&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
 </div>
 
