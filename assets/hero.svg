@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">Bikram Gole — Minimal Systems Engineering</title>
+  <desc id="desc">A cinematic animated command center with an orbital intelligence core, live telemetry, and bold engineering typography.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#020205"/><stop offset=".52" stop-color="#090a12"/><stop offset="1" stop-color="#030307"/></linearGradient>
+    <radialGradient id="blue"><stop stop-color="#35a7ff" stop-opacity=".55"/><stop offset=".42" stop-color="#1268ff" stop-opacity=".16"/><stop offset="1" stop-color="#1268ff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="violet"><stop stop-color="#d55cff" stop-opacity=".5"/><stop offset=".45" stop-color="#7b22ff" stop-opacity=".14"/><stop offset="1" stop-color="#7b22ff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="core"><stop stop-color="#fff"/><stop offset=".13" stop-color="#bdeaff"/><stop offset=".31" stop-color="#2997ff"/><stop offset=".58" stop-color="#6d36ff"/><stop offset="1" stop-color="#bf5af2" stop-opacity="0"/></radialGradient>
+    <linearGradient id="type" x1="0" x2="1"><stop stop-color="#fff"/><stop offset=".55" stop-color="#dcecff"/><stop offset="1" stop-color="#b476ff"/></linearGradient>
+    <linearGradient id="rail" x1="0" x2="1"><stop stop-color="#64d2ff"/><stop offset=".5" stop-color="#2997ff"/><stop offset="1" stop-color="#bf5af2"/></linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff" stop-opacity=".12"/><stop offset="1" stop-color="#fff" stop-opacity=".025"/></linearGradient>
+    <filter id="blur40"><feGaussianBlur stdDeviation="40"/></filter>
+    <filter id="blur12"><feGaussianBlur stdDeviation="12"/></filter>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="clip"><rect width="1200" height="680" rx="34"/></clipPath>
+    <style>
+      .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}
+      .orbit1,.orbit2,.orbit3,.core,.bar1,.bar2,.bar3{transform-box:view-box}
+      .orbit1{transform-origin:886px 306px;animation:spin 16s linear infinite}.orbit2{transform-origin:886px 306px;animation:spinR 11s linear infinite}.orbit3{transform-origin:886px 306px;animation:spin 23s linear infinite}
+      .core{transform-origin:886px 306px;animation:breathe 3.3s ease-in-out infinite}.packet{animation:dash 2.1s linear infinite}.scan{animation:scan 6s linear infinite}
+      .float1{animation:float 5s ease-in-out infinite}.float2{animation:float 6s -2s ease-in-out infinite}.float3{animation:float 4.5s -1s ease-in-out infinite}
+      .blink{animation:blink 2s ease-in-out infinite}.bar1{animation:bar 3s ease-in-out infinite}.bar2{animation:bar 3s -.8s ease-in-out infinite}.bar3{animation:bar 3s -1.5s ease-in-out infinite}
+      .rise{animation:rise .9s cubic-bezier(.2,.8,.2,1) both}.d1{animation-delay:.12s}.d2{animation-delay:.28s}.d3{animation-delay:.48s}.d4{animation-delay:.68s}
+      @keyframes spin{to{transform:rotate(360deg)}}@keyframes spinR{to{transform:rotate(-360deg)}}@keyframes breathe{50%{transform:scale(1.11);opacity:.72}}
+      @keyframes dash{to{stroke-dashoffset:-42}}@keyframes scan{from{transform:translateX(-380px)}to{transform:translateX(1450px)}}
+      @keyframes float{50%{transform:translateY(-9px)}}@keyframes blink{50%{opacity:.25}}@keyframes bar{50%{transform:scaleY(.28)}}@keyframes rise{from{opacity:0;transform:translateY(22px)}to{opacity:1;transform:translateY(0)}}
+    </style>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="680" fill="url(#bg)"/>
+    <ellipse cx="195" cy="75" rx="390" ry="330" fill="url(#blue)" filter="url(#blur40)"/>
+    <ellipse cx="1090" cy="290" rx="410" ry="390" fill="url(#violet)" filter="url(#blur40)"/>
+    <g opacity=".11">
+      <path d="M0 80H1200M0 160H1200M0 240H1200M0 320H1200M0 400H1200M0 480H1200M0 560H1200M0 640H1200" stroke="#fff" stroke-width=".6"/>
+      <path d="M80 0V680M160 0V680M240 0V680M320 0V680M400 0V680M480 0V680M560 0V680M640 0V680M720 0V680M800 0V680M880 0V680M960 0V680M1040 0V680M1120 0V680" stroke="#fff" stroke-width=".6"/>
+    </g>
+    <path class="scan" d="M0 0H220L-30 680H-250Z" fill="#fff" opacity=".025"/>
+
+    <g class="rise d1">
+      <rect x="54" y="42" width="1092" height="45" rx="22.5" fill="#fff" fill-opacity=".035" stroke="#fff" stroke-opacity=".09"/>
+      <circle class="blink" cx="82" cy="64.5" r="5" fill="#30d158" filter="url(#glow)"/>
+      <text x="98" y="70" class="mono" font-size="12" fill="#b6b6bd" letter-spacing="2">BIKRAM.OS / MINIMAL SYSTEMS ONLINE</text>
+      <text x="830" y="70" class="mono" font-size="12" fill="#72727b">NEPAL</text>
+      <text x="920" y="70" class="mono" font-size="12" fill="#72727b">UTC+5:45</text>
+      <text x="1050" y="70" class="mono" font-size="12" fill="#64d2ff">AVAILABLE</text>
+    </g>
+
+    <g class="rise d2">
+      <text x="58" y="162" class="mono" font-size="14" fill="#64d2ff" letter-spacing="4">MINIMAL SYSTEMS ENGINEER</text>
+      <text x="52" y="232" class="sans" font-size="69" font-weight="760" fill="url(#type)" letter-spacing="-3">ENGINEERING</text>
+      <text x="52" y="300" class="sans" font-size="69" font-weight="760" fill="url(#type)" letter-spacing="-3">SIMPLICITY</text>
+      <text x="55" y="348" class="sans" font-size="22" font-weight="500" fill="#a9a9b2">Computers from first principles.</text>
+      <text x="55" y="380" class="sans" font-size="22" font-weight="500" fill="#a9a9b2">Small, fast, and understandable.</text>
+    </g>
+
+    <g class="rise d3">
+      <rect x="54" y="422" width="238" height="54" rx="27" fill="#f5f5f7"/>
+      <text x="173" y="456" text-anchor="middle" class="sans" font-size="15" font-weight="800" fill="#09090c" letter-spacing=".5">EXPLORE THE SYSTEM →</text>
+      <rect x="306" y="422" width="174" height="54" rx="27" fill="#fff" fill-opacity=".045" stroke="#fff" stroke-opacity=".14"/>
+      <text x="393" y="455" text-anchor="middle" class="mono" font-size="14" fill="#d7d7dc">LFS · DWL · BASH</text>
+    </g>
+
+    <g>
+      <ellipse cx="886" cy="306" rx="245" ry="245" fill="url(#blue)" opacity=".32"/>
+      <g class="orbit3" opacity=".28"><ellipse cx="886" cy="306" rx="239" ry="96" fill="none" stroke="#8ddcff" stroke-width="1" transform="rotate(18 886 306)"/><circle cx="1118" cy="330" r="4" fill="#64d2ff"/></g>
+      <g class="orbit1"><ellipse cx="886" cy="306" rx="198" ry="78" fill="none" stroke="#2997ff" stroke-opacity=".6" stroke-width="1.3" transform="rotate(-24 886 306)"/><circle cx="1072" cy="253" r="6" fill="#64d2ff" filter="url(#glow)"/></g>
+      <g class="orbit2"><ellipse cx="886" cy="306" rx="158" ry="158" fill="none" stroke="#bf5af2" stroke-opacity=".45" stroke-width="1.2" stroke-dasharray="4 10"/><circle cx="886" cy="148" r="5" fill="#d878ff" filter="url(#glow)"/></g>
+      <circle class="core" cx="886" cy="306" r="113" fill="url(#core)" opacity=".9" filter="url(#blur12)"/>
+      <circle cx="886" cy="306" r="63" fill="#09101e" stroke="url(#rail)" stroke-width="1.5"/>
+      <circle cx="886" cy="306" r="49" fill="none" stroke="#fff" stroke-opacity=".15"/>
+      <path d="M850 315c17-45 46-55 72-17 12 17 25 13 34-1M850 291c19 36 47 47 70 12 13-20 25-15 36-5" fill="none" stroke="url(#rail)" stroke-width="4" stroke-linecap="round" filter="url(#glow)"/>
+      <text x="886" y="403" text-anchor="middle" class="mono" font-size="11" fill="#b8b8c2" letter-spacing="2">MINIMAL CORE</text>
+    </g>
+
+    <g class="float1">
+      <rect x="707" y="129" width="154" height="66" rx="15" fill="url(#glass)" stroke="#fff" stroke-opacity=".13"/>
+      <text x="724" y="152" class="mono" font-size="10" fill="#777782">OS STATE</text><circle class="blink" cx="838" cy="148" r="4" fill="#30d158"/>
+      <text x="724" y="178" class="sans" font-size="17" font-weight="700" fill="#f5f5f7">LFS</text>
+    </g>
+    <g class="float2">
+      <rect x="1000" y="195" width="146" height="72" rx="15" fill="url(#glass)" stroke="#fff" stroke-opacity=".13"/>
+      <text x="1017" y="219" class="mono" font-size="10" fill="#777782">WINDOW MANAGER</text>
+      <text x="1017" y="248" class="sans" font-size="18" font-weight="700" fill="#f5f5f7">DWL</text>
+    </g>
+    <g class="float3">
+      <rect x="1010" y="382" width="136" height="74" rx="15" fill="url(#glass)" stroke="#fff" stroke-opacity=".13"/>
+      <text x="1027" y="406" class="mono" font-size="10" fill="#777782">SHELL</text>
+      <text x="1027" y="437" class="sans" font-size="19" font-weight="700" fill="#f5f5f7">BASH</text>
+    </g>
+    <path class="packet" d="M642 306H766M1007 306H1147" stroke="url(#rail)" stroke-width="2" stroke-dasharray="7 14"/>
+
+    <g class="rise d4">
+      <rect x="54" y="528" width="1092" height="103" rx="22" fill="#08090e" stroke="#fff" stroke-opacity=".11"/>
+      <text x="76" y="555" class="mono" font-size="10" fill="#70707a" letter-spacing="1.6">MERGED TELEMETRY</text>
+      <g transform="translate(76 573)">
+        <text y="17" class="sans" font-size="27" font-weight="750" fill="#f5f5f7">100+</text><text x="70" y="15" class="mono" font-size="10" fill="#75757f">COMMITS</text><text x="70" y="28" class="mono" font-size="10" fill="#75757f">SHIPPED</text>
+      </g>
+      <path d="M217 552V610M420 552V610M624 552V610M828 552V610" stroke="#fff" stroke-opacity=".09"/>
+      <g transform="translate(247 573)"><text y="17" class="sans" font-size="27" font-weight="750" fill="#f5f5f7">03+</text><text x="44" y="15" class="mono" font-size="10" fill="#75757f">DEPLOYED</text><text x="44" y="28" class="mono" font-size="10" fill="#75757f">PRODUCTS</text></g>
+      <g transform="translate(451 573)"><text y="17" class="sans" font-size="27" font-weight="750" fill="#f5f5f7">C++</text><text x="48" y="15" class="mono" font-size="10" fill="#75757f">PYTHON</text><text x="48" y="28" class="mono" font-size="10" fill="#75757f">BASH</text></g>
+      <g transform="translate(655 573)"><text y="17" class="sans" font-size="27" font-weight="750" fill="#f5f5f7">1</text><text x="54" y="15" class="mono" font-size="10" fill="#75757f">OS BUILT</text><text x="54" y="28" class="mono" font-size="10" fill="#75757f">FROM SOURCE</text></g>
+      <g transform="translate(860 561)">
+        <rect class="bar1" x="0" y="26" width="8" height="22" rx="4" fill="#2997ff" transform-origin="4px 48px"/><rect class="bar2" x="16" y="16" width="8" height="32" rx="4" fill="#4aa8ff" transform-origin="20px 48px"/><rect class="bar3" x="32" y="5" width="8" height="43" rx="4" fill="#8d6aff" transform-origin="36px 48px"/><rect class="bar1" x="48" y="22" width="8" height="26" rx="4" fill="#bf5af2" transform-origin="52px 48px"/>
+        <text x="76" y="30" class="mono" font-size="10" fill="#75757f">SYSTEM</text><text x="76" y="44" class="mono" font-size="10" fill="#30d158">NOMINAL</text>
+      </g>
+    </g>
+  </g>
+  <rect x=".75" y=".75" width="1198.5" height="678.5" rx="33.25" fill="none" stroke="#fff" stroke-opacity=".15" stroke-width="1.5"/>
+</svg>

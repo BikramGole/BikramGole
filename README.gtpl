@@ -1,19 +1,110 @@
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=750&lines=neo%40LFS%3A~%24+whoami;Bikram+Gole;AURA+Farmer;LFS+Minimalist;C%2B%2B+Developer;Python+%2B+AI+Experimenter;Software+should+be+free+(as+in+freedom)" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/BikramGole/BikramGole/main/assets/banner.svg" width="850">
-</p>
+<img src="./assets/hero.svg" width="100%" alt="Bikram Gole — Minimal systems engineering" />
 
-<h2 align="center">Bikram Gole — AURA farmer</h2>
-<p align="center">
-Minimalist systems • LFS • C++ • Python • AI tools
-</p>
+<br/>
 
-<p align="center">
-<a href="mailto:bikramgole.genius@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Explore_Portfolio-FFFFFF?style=for-the-badge&logo=safari&logoColor=000000)](https://devxtechnic.github.io)
+[![LinkedIn](https://img.shields.io/badge/GitHub-111318?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/BikramGole)
+[![Email](https://img.shields.io/badge/Email-111318?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:bikramgole.genius@gmail.com)
+
+</div>
+
+<br/>
+
+## Minimal is a design philosophy, not a limitation.
+
+I build small, fast, and understandable systems — from a Linux system compiled from source to AI-assisted local commerce. Every project is a chance to remove, not add.
+
+<br/>
+
+<img src="./assets/cockpit.svg" width="100%" alt="Animated engineering cockpit with mission, live build status, principles, and technology radar" />
+
+<br/>
+
+<img src="./assets/architecture.svg" width="100%" alt="Animated build pipeline from source to deployed products" />
+
+<br/>
+
+## Selected work
+
+<img src="./assets/showcase.svg" width="100%" alt="Selected projects: KinaHub, Android 17 Cinnamon Bun, and BikramGole" />
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### [KinaHub](https://github.com/BikramGole/KinaHub)
+
+AI-powered local e-commerce and CRM platform connecting sellers and customers with smart recommendations, location-aware delivery optimization, and an LLM shopping assistant via OpenRouter.
+
+`React 19` `TypeScript` `Django REST` `PostgreSQL` `OpenRouter`
+
+</td>
+<td width="33%" valign="top">
+
+### [Android 17](https://github.com/BikramGole/andriod17)
+
+Cinematic interactive showcase for Android 17 "Cinnamon Bun" (API 37) — a marketing site with particle effects, a full-featured Android simulator, and a 3D Android bot built with Three.js.
+
+`React 19` `TypeScript` `Three.js` `Redux Toolkit` `Framer Motion`
+
+</td>
+<td width="33%" valign="top">
+
+### [BikramGole](https://github.com/BikramGole/Bikram)
+
+My personal website — a space-themed digital realm with a dynamic theme engine, an interactive mini terminal, and a persona quiz. A true reflection of my hacker spirit.
+
+`Vanilla JS` `CSS` `HTML` `Sitemap` `CI`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Engineering, measured
+
+<img src="./assets/impact.svg" width="100%" alt="Animated engineering impact metrics" />
+
+> Every number is tied to shipped work — a deployed product, a merged PR, or a system built from source.
+
+<br/>
+
+## Toolkit
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-111318?style=flat-square&logo=linux&logoColor=FFFFFF)
+![C](https://img.shields.io/badge/C-111318?style=flat-square&logo=c&logoColor=FFFFFF)
+![C++](https://img.shields.io/badge/C%2B%2B-111318?style=flat-square&logo=cplusplus&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-111318?style=flat-square&logo=python&logoColor=FFFFFF)
+![Bash](https://img.shields.io/badge/Bash-111318?style=flat-square&logo=gnubash&logoColor=FFFFFF)
+![Django](https://img.shields.io/badge/Django-111318?style=flat-square&logo=django&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/React-111318?style=flat-square&logo=react&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-111318?style=flat-square&logo=typescript&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111318?style=flat-square&logo=postgresql&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-111318?style=flat-square&logo=docker&logoColor=FFFFFF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111318?style=flat-square&logo=githubactions&logoColor=FFFFFF)
+![Neovim](https://img.shields.io/badge/Neovim-111318?style=flat-square&logo=neovim&logoColor=FFFFFF)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=BikramGole&style=for-the-badge&color=2997FF&label=PROFILE+VIEWS)](https://github.com/BikramGole)
+[![Followers](https://img.shields.io/github/followers/BikramGole?style=for-the-badge&logo=github&color=8E5CFF&label=FOLLOWERS)](https://github.com/BikramGole?tab=followers)
+[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBikramGole&query=%24.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&logo=github&color=30A7FF)](https://github.com/BikramGole?tab=repositories)
+[![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBikramGole&query=%24.following&label=FOLLOWING&style=for-the-badge&logo=github&color=BF5AF2)](https://github.com/BikramGole?tab=following)
+[![Location](https://img.shields.io/badge/KATHMANDU-111318?style=for-the-badge&logo=googlemaps&logoColor=64D2FF)](https://github.com/BikramGole)
+[![Member Since](https://img.shields.io/badge/GITHUB_SINCE-2024-111318?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/BikramGole)
+
+</div>
+
+<br/>
 
 ---
 
@@ -79,19 +170,6 @@ Most of my work revolves around:
 
 ---
 
-### 🛠️ Tech Stack
-
-<p align="left">
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
-
----
-
 ### 🖥️ System Info
 
 ```bash
@@ -118,7 +196,7 @@ neo@LFS:~$ fastfetch --structure OS:WM:Shell:Editor:Languages:Focus
 
 ### 📫 Reach Me
 - **Email**: [bikramgole.genius@gmail.com](mailto:bikramgole.genius@gmail.com)
- **Email**: [er@bikramgole.com.np](mailto:er@@bikramgole.com.np)
+- **Email**: [er@bikramgole.com.np](mailto:er@bikramgole.com.np)
 - **GitHub**: [BikramGole](https://github.com/BikramGole)
 
 ---

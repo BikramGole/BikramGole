@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">Bikram's engineering cockpit</title><desc id="desc">Animated bento dashboard showing engineering focus, live build status, values, and technology radar.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#07080c"/><stop offset="1" stop-color="#11101a"/></linearGradient>
+    <linearGradient id="stroke" x1="0" x2="1"><stop stop-color="#2997ff"/><stop offset="1" stop-color="#bf5af2"/></linearGradient>
+    <radialGradient id="radar"><stop stop-color="#2997ff" stop-opacity=".35"/><stop offset="1" stop-color="#2997ff" stop-opacity="0"/></radialGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}
+      .radar{transform-box:view-box;transform-origin:946px 273px;animation:spin 6s linear infinite}.dash{stroke-dasharray:6 10;animation:dash 1.8s linear infinite}.blink{animation:blink 2s ease-in-out infinite}.wave{animation:wave 3s ease-in-out infinite}
+      @keyframes spin{to{transform:rotate(360deg)}}@keyframes dash{to{stroke-dashoffset:-32}}@keyframes blink{50%{opacity:.25}}@keyframes wave{50%{transform:translateY(-6px)}}
+    </style>
+  </defs>
+  <rect width="1200" height="520" rx="28" fill="url(#bg)"/>
+  <text x="48" y="54" class="mono" font-size="13" fill="#64d2ff" letter-spacing="3">ENGINEERING COCKPIT / LIVE</text>
+  <circle class="blink" cx="1142" cy="49" r="5" fill="#30d158" filter="url(#glow)"/><text x="1064" y="54" class="mono" font-size="11" fill="#777782">ONLINE</text>
+
+  <rect x="42" y="80" width="520" height="218" rx="24" fill="#15151b" stroke="#fff" stroke-opacity=".1"/>
+  <text x="70" y="116" class="mono" font-size="11" fill="#777782" letter-spacing="1.5">MISSION</text>
+  <text x="68" y="167" class="sans" font-size="34" font-weight="750" fill="#f5f5f7">Make minimal</text>
+  <text x="68" y="207" class="sans" font-size="34" font-weight="750" fill="#f5f5f7">systems productive.</text>
+  <text x="70" y="247" class="sans" font-size="16" fill="#92929b">Software should be free, as in freedom.</text>
+  <path d="M70 271H530" stroke="url(#stroke)" stroke-width="2"/><circle cx="254" cy="271" r="5" fill="#64d2ff" filter="url(#glow)"/>
+
+  <rect x="580" y="80" width="258" height="218" rx="24" fill="#15151b" stroke="#fff" stroke-opacity=".1"/>
+  <text x="608" y="116" class="mono" font-size="11" fill="#777782" letter-spacing="1.5">NOW BUILDING</text>
+  <circle class="blink" cx="806" cy="112" r="5" fill="#30d158"/>
+  <text x="608" y="160" class="sans" font-size="20" font-weight="700" fill="#f5f5f7">AI-powered local</text>
+  <text x="608" y="188" class="sans" font-size="20" font-weight="700" fill="#f5f5f7">commerce (KinaHub)</text>
+  <g class="wave"><path d="M610 244c21-31 39 26 61-9s40 31 62-3 39 16 72-18" fill="none" stroke="url(#stroke)" stroke-width="3" stroke-linecap="round"/></g>
+  <text x="608" y="273" class="mono" font-size="10" fill="#777782">REACT / DJANGO / POSTGRES</text>
+
+  <rect x="856" y="80" width="302" height="356" rx="24" fill="#15151b" stroke="#fff" stroke-opacity=".1"/>
+  <text x="884" y="116" class="mono" font-size="11" fill="#777782" letter-spacing="1.5">TECHNOLOGY RADAR</text>
+  <g opacity=".34"><circle cx="1007" cy="273" r="104" fill="none" stroke="#72727c"/><circle cx="1007" cy="273" r="72" fill="none" stroke="#72727c"/><circle cx="1007" cy="273" r="38" fill="none" stroke="#72727c"/><path d="M883 273H1131M1007 149V397" stroke="#72727c"/></g>
+  <path class="radar" d="M1007 273L1007 169A104 104 0 0 1 1097 325Z" fill="url(#radar)"/>
+  <circle cx="1007" cy="273" r="5" fill="#f5f5f7" filter="url(#glow)"/>
+  <circle class="blink" cx="1049" cy="220" r="5" fill="#64d2ff"/><text x="1059" y="218" class="mono" font-size="9" fill="#aaaab2">LFS</text>
+  <circle class="blink" cx="954" cy="245" r="5" fill="#2997ff"/><text x="914" y="242" class="mono" font-size="9" fill="#aaaab2">C++</text>
+  <circle class="blink" cx="1028" cy="341" r="5" fill="#bf5af2"/><text x="1038" y="345" class="mono" font-size="9" fill="#aaaab2">AI</text>
+  <text x="884" y="411" class="mono" font-size="10" fill="#777782">SIGNAL LOCK / 09 TECHNOLOGIES</text>
+
+  <rect x="42" y="316" width="796" height="120" rx="24" fill="#15151b" stroke="#fff" stroke-opacity=".1"/>
+  <text x="70" y="351" class="mono" font-size="11" fill="#777782" letter-spacing="1.5">OPERATING PRINCIPLES</text>
+  <g transform="translate(70 373)"><circle cx="7" cy="7" r="7" fill="#2997ff" fill-opacity=".2"/><circle cx="7" cy="7" r="3" fill="#64d2ff"/><text x="24" y="12" class="sans" font-size="16" font-weight="650" fill="#e9e9ed">Keep it minimal</text></g>
+  <g transform="translate(280 373)"><circle cx="7" cy="7" r="7" fill="#2997ff" fill-opacity=".2"/><circle cx="7" cy="7" r="3" fill="#2997ff"/><text x="24" y="12" class="sans" font-size="16" font-weight="650" fill="#e9e9ed">Build from source</text></g>
+  <g transform="translate(506 373)"><circle cx="7" cy="7" r="7" fill="#bf5af2" fill-opacity=".2"/><circle cx="7" cy="7" r="3" fill="#bf5af2"/><text x="24" y="12" class="sans" font-size="16" font-weight="650" fill="#e9e9ed">Automate the mundane</text></g>
+
+  <rect x="42" y="454" width="1116" height="38" rx="19" fill="#fff" fill-opacity=".035" stroke="#fff" stroke-opacity=".08"/>
+  <path class="dash" d="M64 473H1136" stroke="url(#stroke)" stroke-width="1.5"/>
+  <text x="72" y="477" class="mono" font-size="10" fill="#d6d6dc">LINUX</text><text x="215" y="477" class="mono" font-size="10" fill="#d6d6dc">C</text><text x="363" y="477" class="mono" font-size="10" fill="#d6d6dc">C++</text><text x="511" y="477" class="mono" font-size="10" fill="#d6d6dc">PYTHON</text><text x="683" y="477" class="mono" font-size="10" fill="#d6d6dc">BASH</text><text x="811" y="477" class="mono" font-size="10" fill="#d6d6dc">DJANGO</text><text x="946" y="477" class="mono" font-size="10" fill="#d6d6dc">REACT</text><text x="1051" y="477" class="mono" font-size="10" fill="#d6d6dc">DOCKER</text>
+  <rect x=".75" y=".75" width="1198.5" height="518.5" rx="27.25" fill="none" stroke="#fff" stroke-opacity=".12" stroke-width="1.5"/>
+</svg>
