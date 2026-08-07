@@ -209,6 +209,7 @@ neo@LFS:~$ fastfetch --structure OS:WM:Shell:Editor:Languages:Focus
 ### 📫 Reach Me
 - **Email**: [bikramgole.genius@gmail.com](mailto:bikramgole.genius@gmail.com)
 - **Email**: [er@bikramgole.com.np](mailto:er@bikramgole.com.np)
+- **LinkedIn**: [Bikram Gole](https://www.linkedin.com/in/bikramgole/)
 - **GitHub**: [BikramGole](https://github.com/BikramGole)
 
 ---
