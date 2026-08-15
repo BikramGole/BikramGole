@@ -138,16 +138,16 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 - [ashwinsunar/lustro](https://github.com/ashwinsunar/lustro) - Lustro — Premium Luxury Watches
 - [BikramGole/KinaHub](https://github.com/BikramGole/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
 - [habibishrawanshah/onesteppharmacy](https://github.com/habibishrawanshah/onesteppharmacy) - 
+- [BikramGole/work-ios](https://github.com/BikramGole/work-ios) - 
 - [BikramGole/Bikram](https://github.com/BikramGole/Bikram) - Dive into my personal website, &#34;The Aura,&#34; a unique blend of AI insights, Linux adventures, and coding explorations. Expect interactive features, dynamic themes, and a dash of controlled chaos in this space-themed digital realm. A true reflection of my hacker spirit! 🚀🎨👾
-- [BikramGole/Neopluse](https://github.com/BikramGole/Neopluse) - 
 
 ### 🌱 My latest projects
 
+- [BikramGole/work-ios](https://github.com/BikramGole/work-ios) - 
+- [BikramGole/android17](https://github.com/BikramGole/android17) - I built an immersive, cinematic showcase for Android 17 &#34;Cinnamon Bun&#34; (API 37) — a premium marketing site paired with a fully functional Android simulator in the browser.
 - [BikramGole/control-center](https://github.com/BikramGole/control-center) - 
 - [BikramGole/JavaAssignment](https://github.com/BikramGole/JavaAssignment) - 
 - [BikramGole/KinaHub](https://github.com/BikramGole/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
-- [BikramGole/ojt10-2](https://github.com/BikramGole/ojt10-2) - 
-- [BikramGole/E-Commerce](https://github.com/BikramGole/E-Commerce) - A feature-rich Django e-commerce site with product filtering, shopping cart, user auth, and order tracking. Includes a CRM module and admin dashboard. Built as a school project to showcase full-stack development, database management, and responsive design.
 
 ### 🔨 My recent Pull Requests
 
