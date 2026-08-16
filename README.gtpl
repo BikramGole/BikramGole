@@ -127,6 +127,9 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 
 <br>
 
+[![committers.top badge](https://user-badge.committers.top/nepal/USERNAME.svg)](https://user-badge.committers.top/nepal/BikramGole)
+
+
 <p align="center">
 <a href="https://wakatime.com/@07f2f83c-a4f8-407e-ac67-6aafb674ebf8"><img src="https://wakatime.com/badge/user/07f2f83c-a4f8-407e-ac67-6aafb674ebf8.svg" alt="Total time coded since May 27 2026" /></a>
 </p>
