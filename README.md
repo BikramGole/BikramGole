@@ -140,11 +140,11 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 
 ### 👷 Check out what I'm currently working on
 
+- [BikramGole/work-ios](https://github.com/BikramGole/work-ios) - 
+- [BikramGole/Bikram](https://github.com/BikramGole/Bikram) - Dive into my personal website, &#34;The Aura,&#34; a unique blend of AI insights, Linux adventures, and coding explorations. Expect interactive features, dynamic themes, and a dash of controlled chaos in this space-themed digital realm. A true reflection of my hacker spirit! 🚀🎨👾
 - [BikramGole/Ytdaily](https://github.com/BikramGole/Ytdaily) - High-performance, automated YouTube feed downloader with TUI, SponsorBlock, and parallel download support.
 - [ashwinsunar/lustro](https://github.com/ashwinsunar/lustro) - Lustro — Premium Luxury Watches
 - [BikramGole/KinaHub](https://github.com/BikramGole/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
-- [habibishrawanshah/onesteppharmacy](https://github.com/habibishrawanshah/onesteppharmacy) - 
-- [BikramGole/work-ios](https://github.com/BikramGole/work-ios) - 
 
 ### 🌱 My latest projects
 
@@ -156,11 +156,11 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 
 ### 🔨 My recent Pull Requests
 
+- [Fix simulator icon ratios and status bar visibility](https://github.com/BikramGole/android17/pull/1) on [BikramGole/android17](https://github.com/BikramGole/android17)
 - [docs: update README with hosted site status warning](https://github.com/Rockyffgod/OJT/pull/1) on [Rockyffgod/OJT](https://github.com/Rockyffgod/OJT)
 - [Swap demo/walkthrough sections in README](https://github.com/BikramGole/KinaHub/pull/72) on [BikramGole/KinaHub](https://github.com/BikramGole/KinaHub)
 - [fix: use dynamic PROJECT_SLUG in sentry-event-checker](https://github.com/BikramGole/KinaHub/pull/71) on [BikramGole/KinaHub](https://github.com/BikramGole/KinaHub)
 - [fix: auto-close GitHub issues when Sentry issues resolved &#43; project filter](https://github.com/BikramGole/KinaHub/pull/70) on [BikramGole/KinaHub](https://github.com/BikramGole/KinaHub)
-- [fix: N&#43;1 Query [autofix]](https://github.com/BikramGole/KinaHub/pull/69) on [BikramGole/KinaHub](https://github.com/BikramGole/KinaHub)
 
 ### ⭐ Recent Stars
 
