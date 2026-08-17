@@ -97,7 +97,7 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 
 [![Profile Views](https://komarev.com/ghpvc/?username=BikramGole&style=for-the-badge&color=2997FF&label=PROFILE+VIEWS)](https://github.com/BikramGole)
 [![Followers](https://img.shields.io/github/followers/BikramGole?style=for-the-badge&logo=github&color=8E5CFF&label=FOLLOWERS)](https://github.com/BikramGole?tab=followers)
-[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBikramGole&query=%24.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&logo=github&color=30A7FF)](https://github.com/BikramGole?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBikramGole&query=%24.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&logo=github&color=30A7FF&cache=300)](https://github.com/BikramGole?tab=repositories)
 [![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBikramGole&query=%24.following&label=FOLLOWING&style=for-the-badge&logo=github&color=BF5AF2)](https://github.com/BikramGole?tab=following)
 [![Location](https://img.shields.io/badge/KATHMANDU-111318?style=for-the-badge&logo=googlemaps&logoColor=64D2FF)](https://github.com/BikramGole)
 [![Member Since](https://img.shields.io/badge/GITHUB_SINCE-2024-111318?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/BikramGole)
