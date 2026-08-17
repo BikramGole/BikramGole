@@ -127,7 +127,9 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 
 <br>
 
-[![committers.top badge](https://user-badge.committers.top/nepal/BikramGole.svg)](https://user-badge.committers.top/nepal/BikramGole)
+<p align="center">
+<a href="https://user-badge.committers.top/nepal/BikramGole"><img src="https://user-badge.committers.top/nepal/BikramGole.svg" alt="committers.top badge" /></a>
+</p>
 
 
 <p align="center">
