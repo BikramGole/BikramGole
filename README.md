@@ -138,11 +138,11 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 
 ### 👷 Check out what I'm currently working on
 
+- [BikramGole/Ytdaily](https://github.com/BikramGole/Ytdaily) - High-performance, automated YouTube feed downloader with TUI, SponsorBlock, and parallel download support.
 - [ashwinsunar/lustro](https://github.com/ashwinsunar/lustro) - Lustro — Premium Luxury Watches
 - [BikramGole/KinaHub](https://github.com/BikramGole/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
 - [habibishrawanshah/onesteppharmacy](https://github.com/habibishrawanshah/onesteppharmacy) - 
 - [BikramGole/work-ios](https://github.com/BikramGole/work-ios) - 
-- [BikramGole/Bikram](https://github.com/BikramGole/Bikram) - Dive into my personal website, &#34;The Aura,&#34; a unique blend of AI insights, Linux adventures, and coding explorations. Expect interactive features, dynamic themes, and a dash of controlled chaos in this space-themed digital realm. A true reflection of my hacker spirit! 🚀🎨👾
 
 ### 🌱 My latest projects
 
@@ -162,11 +162,11 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 
 ### ⭐ Recent Stars
 
-- [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi) - Unofficial API for YouTube Music
-- [ThierryRakotomanana/GitCharta](https://github.com/ThierryRakotomanana/GitCharta) - Visualize your GitHub footprint in 2D and 3D. Transform raw counts (stars, forks, PRs) into an interactive global map to see exactly how far your work travels.
-- [BikramGole/KinaHub](https://github.com/BikramGole/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
-- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI 
+- [jeevannar16-web/arch-hyprland-dotfiles](https://github.com/jeevannar16-web/arch-hyprland-dotfiles) - My personal Arch Linux &#43; Hyprland dotfiles, based on end-4/dots-hyprland
+- [jeevannar16-web/Python](https://github.com/jeevannar16-web/Python) - 
+- [jeevannar16-web/Fitness-Hub](https://github.com/jeevannar16-web/Fitness-Hub) - &#34;Fitness-Hub - Django Fitness Platform&#34;
+- [jeevannar16-web/Jeevan_Ojt](https://github.com/jeevannar16-web/Jeevan_Ojt) - 
+- [jeevannar16-web/c-plus-plus](https://github.com/jeevannar16-web/c-plus-plus) - C&#43;&#43; project and assignment
 
 ---
 
