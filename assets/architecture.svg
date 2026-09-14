@@ -39,7 +39,7 @@
     <circle class="live" cx="94" cy="243" r="4" fill="#64d2ff" filter="url(#glow)"/>
     <text x="118" y="250" class="mono" font-size="13" fill="#8e8e93" letter-spacing="1">01 / BUILD</text>
     <text x="86" y="299" class="sans" font-size="25" font-weight="700" fill="#f5f5f7">From source</text>
-    <text x="86" y="329" class="sans" font-size="15" fill="#8e8e93">LFS · custom · compiled</text>
+    <text x="86" y="329" class="sans" font-size="15" fill="#8e8e93">Arch Linux · custom · compiled</text>
   </g>
   <g class="card c2">
     <rect x="464" y="205" width="272" height="150" rx="22" fill="#17171c" stroke="url(#accent)" stroke-opacity=".7"/>
@@ -60,8 +60,8 @@
   <g transform="translate(60 398)">
     <circle cx="5" cy="0" r="5" fill="#30d158"/>
     <text x="20" y="5" class="mono" font-size="13" fill="#8e8e93">SYSTEM HEALTHY</text>
-    <text x="190" y="5" class="mono" font-size="13" fill="#8e8e93">OS / LFS</text>
-    <text x="350" y="5" class="mono" font-size="13" fill="#8e8e93">WM / DWL</text>
+    <text x="190" y="5" class="mono" font-size="13" fill="#8e8e93">OS / Arch Linux</text>
+    <text x="350" y="5" class="mono" font-size="13" fill="#8e8e93">WM / Mango Everwhere</text>
     <text x="470" y="5" class="mono" font-size="13" fill="#8e8e93">EDITOR / NEOVIM</text>
     <text x="700" y="5" class="mono" font-size="13" fill="#8e8e93">TARGET / SMALL + FAST + FREE</text>
   </g>

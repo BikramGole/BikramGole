@@ -35,7 +35,7 @@
   <g opacity=".34"><circle cx="1007" cy="273" r="104" fill="none" stroke="#72727c"/><circle cx="1007" cy="273" r="72" fill="none" stroke="#72727c"/><circle cx="1007" cy="273" r="38" fill="none" stroke="#72727c"/><path d="M883 273H1131M1007 149V397" stroke="#72727c"/></g>
   <path class="radar" d="M1007 273L1007 169A104 104 0 0 1 1097 325Z" fill="url(#radar)"/>
   <circle cx="1007" cy="273" r="5" fill="#f5f5f7" filter="url(#glow)"/>
-  <circle class="blink" cx="1049" cy="220" r="5" fill="#64d2ff"/><text x="1059" y="218" class="mono" font-size="9" fill="#aaaab2">LFS</text>
+  <circle class="blink" cx="1049" cy="220" r="5" fill="#64d2ff"/><text x="1059" y="218" class="mono" font-size="9" fill="#aaaab2">Arch Linux</text>
   <circle class="blink" cx="954" cy="245" r="5" fill="#2997ff"/><text x="914" y="242" class="mono" font-size="9" fill="#aaaab2">C++</text>
   <circle class="blink" cx="1028" cy="341" r="5" fill="#bf5af2"/><text x="1038" y="345" class="mono" font-size="9" fill="#aaaab2">AI</text>
   <text x="884" y="411" class="mono" font-size="10" fill="#777782">SIGNAL LOCK / 09 TECHNOLOGIES</text>

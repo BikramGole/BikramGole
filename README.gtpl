@@ -163,7 +163,7 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 ### 💻 About Me
 
 ```bash
-neo@LFS:~$ cat about_me.txt
+neo@Arch:~$ cat about_me.txt
 ```
 I enjoy building **minimal systems** that are simple, efficient, and understandable.
 
@@ -178,13 +178,13 @@ Most of my work revolves around:
 ### 🖥️ System Info
 
 ```bash
-neo@LFS:~$ fastfetch --structure OS:WM:Shell:Editor:Languages:Focus
+neo@Arch:~$ fastfetch --structure OS:WM:Shell:Editor:Languages:Focus
 ```
 
 | Component | Detail |
 | :--- | :--- |
-| **OS** | LFS |
-| **WM** | DWL |
+| **OS** | Arch Linux |
+| **WM** | Mango Everwhere |
 | **Shell** | Bash |
 | **Editor** | Neovim |
 | **Focus** | AI tools, Linux customization, minimal computing |
