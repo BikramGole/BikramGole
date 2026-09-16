@@ -164,11 +164,11 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 
 ### ⭐ Recent Stars
 
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 - [AhmedSaadi0/NibrasShell](https://github.com/AhmedSaadi0/NibrasShell) - AI‑integrated shell.
 - [jeevannar16-web/arch-hyprland-dotfiles](https://github.com/jeevannar16-web/arch-hyprland-dotfiles) - My personal Arch Linux &#43; Hyprland dotfiles, based on end-4/dots-hyprland
 - [jeevannar16-web/Python](https://github.com/jeevannar16-web/Python) - 
 - [jeevannar16-web/Fitness-Hub](https://github.com/jeevannar16-web/Fitness-Hub) - &#34;Fitness-Hub - Django Fitness Platform&#34;
-- [jeevannar16-web/Jeevan_Ojt](https://github.com/jeevannar16-web/Jeevan_Ojt) - 
 
 ---
 
