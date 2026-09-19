@@ -144,7 +144,7 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 - [BikramGole/Bikram](https://github.com/BikramGole/Bikram) - Dive into my personal website, &#34;The Aura,&#34; a unique blend of AI insights, Linux adventures, and coding explorations. Expect interactive features, dynamic themes, and a dash of controlled chaos in this space-themed digital realm. A true reflection of my hacker spirit! 🚀🎨👾
 - [BikramGole/JavaAssignment](https://github.com/BikramGole/JavaAssignment) - 
 - [BikramGole/work-ios](https://github.com/BikramGole/work-ios) - 
-- [ashwinsunar/lustro](https://github.com/ashwinsunar/lustro) - Lustro — Premium Luxury Watches
+- [BikramGole/KinaHub](https://github.com/BikramGole/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
 
 ### 🌱 My latest projects
 
