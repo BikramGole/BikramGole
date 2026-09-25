@@ -164,11 +164,11 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 
 ### ⭐ Recent Stars
 
+- [Parithosh-Varma/puter-pool](https://github.com/Parithosh-Varma/puter-pool) - Free AI API proxy: pool Puter.com accounts for unlimited credits across 400&#43; models (Claude, GPT, Gemini, DeepSeek). Auto-failover, OpenAI-compatible endpoint.
 - [jeevannar16-web/Pickora](https://github.com/jeevannar16-web/Pickora) - Spinora — Spin. Suspense. Winner. A beautifully animated random-picker wheel for names, numbers, or custom entries. Built for moments that deserve a little drama — giveaways, raffles, team picks, and classroom draws — with buttery-smooth animations and zero setup required to get a great result.
 - [BikramGole/lustro](https://github.com/BikramGole/lustro) - 
 - [BikramGole/aaryaa](https://github.com/BikramGole/aaryaa) - 
 - [BikramGole/VibeAI](https://github.com/BikramGole/VibeAI) - 
-- [BikramGole/alyi-ai](https://github.com/BikramGole/alyi-ai) - 
 
 ---
 
