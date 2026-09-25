@@ -140,19 +140,19 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 
 ### 👷 Check out what I'm currently working on
 
+- [BikramGole/snapcode](https://github.com/BikramGole/snapcode) - Repository snapcode from GitLab
 - [BikramGole/Ytdaily](https://github.com/BikramGole/Ytdaily) - High-performance, automated YouTube feed downloader with TUI, SponsorBlock, and parallel download support.
 - [BikramGole/Bikram](https://github.com/BikramGole/Bikram) - Dive into my personal website, &#34;The Aura,&#34; a unique blend of AI insights, Linux adventures, and coding explorations. Expect interactive features, dynamic themes, and a dash of controlled chaos in this space-themed digital realm. A true reflection of my hacker spirit! 🚀🎨👾
 - [BikramGole/JavaAssignment](https://github.com/BikramGole/JavaAssignment) - 
 - [BikramGole/work-ios](https://github.com/BikramGole/work-ios) - 
-- [BikramGole/KinaHub](https://github.com/BikramGole/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
 
 ### 🌱 My latest projects
 
+- [BikramGole/snapcode](https://github.com/BikramGole/snapcode) - Repository snapcode from GitLab
+- [BikramGole/annote](https://github.com/BikramGole/annote) - Repository from GitLab: DevXtechnic/annote
 - [BikramGole/work-ios](https://github.com/BikramGole/work-ios) - 
 - [BikramGole/android17](https://github.com/BikramGole/android17) - I built an immersive, cinematic showcase for Android 17 &#34;Cinnamon Bun&#34; (API 37) — a premium marketing site paired with a fully functional Android simulator in the browser.
 - [BikramGole/control-center](https://github.com/BikramGole/control-center) - 
-- [BikramGole/JavaAssignment](https://github.com/BikramGole/JavaAssignment) - 
-- [BikramGole/KinaHub](https://github.com/BikramGole/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
 
 ### 🔨 My recent Pull Requests
 
