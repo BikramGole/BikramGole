@@ -140,19 +140,19 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 
 ### 👷 Check out what I'm currently working on
 
-- [BikramGole/snapcode](https://github.com/BikramGole/snapcode) - Repository snapcode from GitLab
-- [BikramGole/Ytdaily](https://github.com/BikramGole/Ytdaily) - High-performance, automated YouTube feed downloader with TUI, SponsorBlock, and parallel download support.
-- [BikramGole/Bikram](https://github.com/BikramGole/Bikram) - Dive into my personal website, &#34;The Aura,&#34; a unique blend of AI insights, Linux adventures, and coding explorations. Expect interactive features, dynamic themes, and a dash of controlled chaos in this space-themed digital realm. A true reflection of my hacker spirit! 🚀🎨👾
-- [BikramGole/JavaAssignment](https://github.com/BikramGole/JavaAssignment) - 
-- [BikramGole/work-ios](https://github.com/BikramGole/work-ios) - 
+- [BikramGole/VibeAI](https://github.com/BikramGole/VibeAI) - 
+- [BikramGole/system](https://github.com/BikramGole/system) - System project
+- [BikramGole/SuperCode](https://github.com/BikramGole/SuperCode) - 
+- [BikramGole/jillabbhai](https://github.com/BikramGole/jillabbhai) - Jillab.com.np
+- [BikramGole/binodlivestock](https://github.com/BikramGole/binodlivestock) - 
 
 ### 🌱 My latest projects
 
+- [BikramGole/system](https://github.com/BikramGole/system) - System project
 - [BikramGole/snapcode](https://github.com/BikramGole/snapcode) - Repository snapcode from GitLab
 - [BikramGole/annote](https://github.com/BikramGole/annote) - Repository from GitLab: DevXtechnic/annote
-- [BikramGole/work-ios](https://github.com/BikramGole/work-ios) - 
-- [BikramGole/android17](https://github.com/BikramGole/android17) - I built an immersive, cinematic showcase for Android 17 &#34;Cinnamon Bun&#34; (API 37) — a premium marketing site paired with a fully functional Android simulator in the browser.
-- [BikramGole/control-center](https://github.com/BikramGole/control-center) - 
+- [BikramGole/alyi-ai](https://github.com/BikramGole/alyi-ai) - 
+- [BikramGole/VibeAI](https://github.com/BikramGole/VibeAI) - 
 
 ### 🔨 My recent Pull Requests
 
@@ -164,11 +164,11 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 
 ### ⭐ Recent Stars
 
+- [ashkulz/committers.top](https://github.com/ashkulz/committers.top) - CLI tool which uses the GitHub GraphQL API to rank users according to number of contributions, and corresponding static website.
+- [BikramGole/annote](https://github.com/BikramGole/annote) - Repository from GitLab: DevXtechnic/annote
+- [BikramGole/snapcode](https://github.com/BikramGole/snapcode) - Repository snapcode from GitLab
 - [Parithosh-Varma/puter-pool](https://github.com/Parithosh-Varma/puter-pool) - Free AI API proxy: pool Puter.com accounts for unlimited credits across 400&#43; models (Claude, GPT, Gemini, DeepSeek). Auto-failover, OpenAI-compatible endpoint.
 - [jeevannar16-web/Pickora](https://github.com/jeevannar16-web/Pickora) - Spinora — Spin. Suspense. Winner. A beautifully animated random-picker wheel for names, numbers, or custom entries. Built for moments that deserve a little drama — giveaways, raffles, team picks, and classroom draws — with buttery-smooth animations and zero setup required to get a great result.
-- [BikramGole/lustro](https://github.com/BikramGole/lustro) - 
-- [BikramGole/aaryaa](https://github.com/BikramGole/aaryaa) - 
-- [BikramGole/VibeAI](https://github.com/BikramGole/VibeAI) - 
 
 ---
 
