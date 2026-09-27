@@ -140,10 +140,10 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 
 ### 👷 Check out what I'm currently working on
 
-- [BikramGole/VibeAI](https://github.com/BikramGole/VibeAI) - 
+- [BikramGole/JavaAssignment](https://github.com/BikramGole/JavaAssignment) - 
+- [BikramGole/alyi-ai](https://github.com/BikramGole/alyi-ai) - 
 - [BikramGole/system](https://github.com/BikramGole/system) - System project
-- [BikramGole/SuperCode](https://github.com/BikramGole/SuperCode) - 
-- [BikramGole/jillabbhai](https://github.com/BikramGole/jillabbhai) - Jillab.com.np
+- [BikramGole/VibeAI](https://github.com/BikramGole/VibeAI) - 
 - [BikramGole/binodlivestock](https://github.com/BikramGole/binodlivestock) - 
 
 ### 🌱 My latest projects
@@ -164,11 +164,11 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 
 ### ⭐ Recent Stars
 
+- [BikramGole/system](https://github.com/BikramGole/system) - System project
 - [ashkulz/committers.top](https://github.com/ashkulz/committers.top) - CLI tool which uses the GitHub GraphQL API to rank users according to number of contributions, and corresponding static website.
 - [BikramGole/annote](https://github.com/BikramGole/annote) - Repository from GitLab: DevXtechnic/annote
 - [BikramGole/snapcode](https://github.com/BikramGole/snapcode) - Repository snapcode from GitLab
 - [Parithosh-Varma/puter-pool](https://github.com/Parithosh-Varma/puter-pool) - Free AI API proxy: pool Puter.com accounts for unlimited credits across 400&#43; models (Claude, GPT, Gemini, DeepSeek). Auto-failover, OpenAI-compatible endpoint.
-- [jeevannar16-web/Pickora](https://github.com/jeevannar16-web/Pickora) - Spinora — Spin. Suspense. Winner. A beautifully animated random-picker wheel for names, numbers, or custom entries. Built for moments that deserve a little drama — giveaways, raffles, team picks, and classroom draws — with buttery-smooth animations and zero setup required to get a great result.
 
 ---
 
