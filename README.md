@@ -141,18 +141,18 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 ### 👷 Check out what I'm currently working on
 
 - [BikramGole/JavaAssignment](https://github.com/BikramGole/JavaAssignment) - 
-- [BikramGole/alyi-ai](https://github.com/BikramGole/alyi-ai) - 
-- [BikramGole/system](https://github.com/BikramGole/system) - System project
-- [BikramGole/VibeAI](https://github.com/BikramGole/VibeAI) - 
-- [BikramGole/binodlivestock](https://github.com/BikramGole/binodlivestock) - 
+- [BikramGole/snapcode](https://github.com/BikramGole/snapcode) - Repository snapcode from GitLab
+- [BikramGole/Ytdaily](https://github.com/BikramGole/Ytdaily) - High-performance, automated YouTube feed downloader with TUI, SponsorBlock, and parallel download support.
+- [BikramGole/Bikram](https://github.com/BikramGole/Bikram) - Dive into my personal website, &#34;The Aura,&#34; a unique blend of AI insights, Linux adventures, and coding explorations. Expect interactive features, dynamic themes, and a dash of controlled chaos in this space-themed digital realm. A true reflection of my hacker spirit! 🚀🎨👾
+- [BikramGole/work-ios](https://github.com/BikramGole/work-ios) - 
 
 ### 🌱 My latest projects
 
-- [BikramGole/system](https://github.com/BikramGole/system) - System project
 - [BikramGole/snapcode](https://github.com/BikramGole/snapcode) - Repository snapcode from GitLab
 - [BikramGole/annote](https://github.com/BikramGole/annote) - Repository from GitLab: DevXtechnic/annote
-- [BikramGole/alyi-ai](https://github.com/BikramGole/alyi-ai) - 
-- [BikramGole/VibeAI](https://github.com/BikramGole/VibeAI) - 
+- [BikramGole/work-ios](https://github.com/BikramGole/work-ios) - 
+- [BikramGole/android17](https://github.com/BikramGole/android17) - I built an immersive, cinematic showcase for Android 17 &#34;Cinnamon Bun&#34; (API 37) — a premium marketing site paired with a fully functional Android simulator in the browser.
+- [BikramGole/control-center](https://github.com/BikramGole/control-center) - 
 
 ### 🔨 My recent Pull Requests
 
@@ -164,11 +164,11 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 
 ### ⭐ Recent Stars
 
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [BikramGole/system](https://github.com/BikramGole/system) - System project
 - [ashkulz/committers.top](https://github.com/ashkulz/committers.top) - CLI tool which uses the GitHub GraphQL API to rank users according to number of contributions, and corresponding static website.
 - [BikramGole/annote](https://github.com/BikramGole/annote) - Repository from GitLab: DevXtechnic/annote
 - [BikramGole/snapcode](https://github.com/BikramGole/snapcode) - Repository snapcode from GitLab
-- [Parithosh-Varma/puter-pool](https://github.com/Parithosh-Varma/puter-pool) - Free AI API proxy: pool Puter.com accounts for unlimited credits across 400&#43; models (Claude, GPT, Gemini, DeepSeek). Auto-failover, OpenAI-compatible endpoint.
 
 ---
 
