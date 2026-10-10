@@ -140,9 +140,9 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 
 ### 👷 Check out what I'm currently working on
 
+- [BikramGole/KinaHub](https://github.com/BikramGole/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
 - [BikramGole/Bikram](https://github.com/BikramGole/Bikram) - Dive into my personal website, &#34;The Aura,&#34; a unique blend of AI insights, Linux adventures, and coding explorations. Expect interactive features, dynamic themes, and a dash of controlled chaos in this space-themed digital realm. A true reflection of my hacker spirit! 🚀🎨👾
 - [BikramGole/Ytdaily](https://github.com/BikramGole/Ytdaily) - High-performance, automated YouTube feed downloader with TUI, SponsorBlock, and parallel download support.
-- [BikramGole/KinaHub](https://github.com/BikramGole/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
 - [BikramGole/JavaAssignment](https://github.com/BikramGole/JavaAssignment) - 
 - [BikramGole/snapcode](https://github.com/BikramGole/snapcode) - Repository snapcode from GitLab
 
@@ -164,11 +164,11 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 
 ### ⭐ Recent Stars
 
+- [BikramGole/RepoPulse](https://github.com/BikramGole/RepoPulse) - 
+- [kinahubofficial/kinahubofficial](https://github.com/kinahubofficial/kinahubofficial) - KinaHubOfficial — code, create, power up.
 - [sandesh6636/Project-Drivio](https://github.com/sandesh6636/Project-Drivio) - This the project done by grade 11 team during OJT . 
 - [sandesh6636/ProjectDrivioDjango](https://github.com/sandesh6636/ProjectDrivioDjango) - 
 - [dipeshkumarsah98/E-commerical-API-django](https://github.com/dipeshkumarsah98/E-commerical-API-django) - I developed this as a personal project utilizing the open-source Django and Django-Rest-Framework frameworks. Regarding performance and industry best practices, I have incorporated all the features that are available on this e-commerce website. JWT authentication, one of the most widely used authentication platforms at the moment, which is used here.
-- [namelesskid36/gamehub_laravel](https://github.com/namelesskid36/gamehub_laravel) - 
-- [smileyyjkey/photography_site](https://github.com/smileyyjkey/photography_site) - 
 
 ---
 
