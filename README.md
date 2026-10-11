@@ -164,11 +164,11 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 
 ### ⭐ Recent Stars
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
+- [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel&#39;s official collection of agent skills
+- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - A curated collection of 1000&#43; agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
 - [BikramGole/RepoPulse](https://github.com/BikramGole/RepoPulse) - GitHub leaderboard and developer analytics dashboard for classmates and peer networks, powered by real-time GitHub GraphQL data.
-- [kinahubofficial/kinahubofficial](https://github.com/kinahubofficial/kinahubofficial) - KinaHubOfficial — code, create, power up.
-- [sandesh6636/Project-Drivio](https://github.com/sandesh6636/Project-Drivio) - This the project done by grade 11 team during OJT . 
-- [sandesh6636/ProjectDrivioDjango](https://github.com/sandesh6636/ProjectDrivioDjango) - 
-- [dipeshkumarsah98/E-commerical-API-django](https://github.com/dipeshkumarsah98/E-commerical-API-django) - I developed this as a personal project utilizing the open-source Django and Django-Rest-Framework frameworks. Regarding performance and industry best practices, I have incorporated all the features that are available on this e-commerce website. JWT authentication, one of the most widely used authentication platforms at the moment, which is used here.
 
 ---
 
