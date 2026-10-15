@@ -141,18 +141,18 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 ### 👷 Check out what I'm currently working on
 
 - [BikramGole/KinaHub](https://github.com/BikramGole/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
+- [BikramGole/Bikram](https://github.com/BikramGole/Bikram) - Dive into my personal website, &#34;The Aura,&#34; a unique blend of AI insights, Linux adventures, and coding explorations. Expect interactive features, dynamic themes, and a dash of controlled chaos in this space-themed digital realm. A true reflection of my hacker spirit! 🚀🎨👾
 - [Abyssal-oath/.github](https://github.com/Abyssal-oath/.github) - 
 - [BikramGole/RepoPulse](https://github.com/BikramGole/RepoPulse) - GitHub leaderboard and developer analytics dashboard for classmates and peer networks, powered by real-time GitHub GraphQL data.
-- [BikramGole/Bikram](https://github.com/BikramGole/Bikram) - Dive into my personal website, &#34;The Aura,&#34; a unique blend of AI insights, Linux adventures, and coding explorations. Expect interactive features, dynamic themes, and a dash of controlled chaos in this space-themed digital realm. A true reflection of my hacker spirit! 🚀🎨👾
 - [BikramGole/Ytdaily](https://github.com/BikramGole/Ytdaily) - High-performance, automated YouTube feed downloader with TUI, SponsorBlock, and parallel download support.
 
 ### 🌱 My latest projects
 
+- [BikramGole/sagarshahi865.github.io](https://github.com/BikramGole/sagarshahi865.github.io) - 
 - [BikramGole/RepoPulse](https://github.com/BikramGole/RepoPulse) - GitHub leaderboard and developer analytics dashboard for classmates and peer networks, powered by real-time GitHub GraphQL data.
 - [BikramGole/snapcode](https://github.com/BikramGole/snapcode) - Repository snapcode from GitLab
 - [BikramGole/annote](https://github.com/BikramGole/annote) - Repository from GitLab: DevXtechnic/annote
 - [BikramGole/work-ios](https://github.com/BikramGole/work-ios) - 
-- [BikramGole/android17](https://github.com/BikramGole/android17) - I built an immersive, cinematic showcase for Android 17 &#34;Cinnamon Bun&#34; (API 37) — a premium marketing site paired with a fully functional Android simulator in the browser.
 
 ### 🔨 My recent Pull Requests
 
@@ -164,11 +164,11 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 
 ### ⭐ Recent Stars
 
+- [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing &amp; development tools
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [BikramGole/Abyssal](https://github.com/BikramGole/Abyssal) - 
 - [NeoXBikram/NeoXBikram](https://github.com/NeoXBikram/NeoXBikram) - 
 - [BikramGole/NeoOS](https://github.com/BikramGole/NeoOS) - neo os by Bikram
-- [mesaugat/tech-companies-in-nepal](https://github.com/mesaugat/tech-companies-in-nepal) - List of tech companies based or working in Nepal. 🇳🇵
 
 ---
 
