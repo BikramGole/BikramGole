@@ -141,10 +141,10 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 ### 👷 Check out what I'm currently working on
 
 - [BikramGole/Ytdaily](https://github.com/BikramGole/Ytdaily) - High-performance, automated YouTube feed downloader with TUI, SponsorBlock, and parallel download support.
+- [BikramGole/hyprland-cava-underlay](https://github.com/BikramGole/hyprland-cava-underlay) - A Hyprland setup that embeds Cava as a transparent, audio-reactive underlay behind windows—because having music bars behind everything is cooler than being productive.
 - [BikramGole/snapcode](https://github.com/BikramGole/snapcode) - Repository snapcode from GitLab
-- [BikramGole/KinaHub](https://github.com/BikramGole/KinaHub) - AI-powered local e-commerce &amp; CRM platform connecting sellers and customers with smart recommendations and delivery optimization.
-- [BikramGole/Bikram](https://github.com/BikramGole/Bikram) - Dive into my personal website, &#34;The Aura,&#34; a unique blend of AI insights, Linux adventures, and coding explorations. Expect interactive features, dynamic themes, and a dash of controlled chaos in this space-themed digital realm. A true reflection of my hacker spirit! 🚀🎨👾
 - [Abyssal-oath/.github](https://github.com/Abyssal-oath/.github) - 
+- [BikramGole/Bikram](https://github.com/BikramGole/Bikram) - Dive into my personal website, &#34;The Aura,&#34; a unique blend of AI insights, Linux adventures, and coding explorations. Expect interactive features, dynamic themes, and a dash of controlled chaos in this space-themed digital realm. A true reflection of my hacker spirit! 🚀🎨👾
 
 ### 🌱 My latest projects
 
@@ -164,9 +164,9 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 
 ### ⭐ Recent Stars
 
+- [BikramGole/Abyssal](https://github.com/BikramGole/Abyssal) - 
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing &amp; development tools
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [BikramGole/Abyssal](https://github.com/BikramGole/Abyssal) - 
 - [NeoXBikram/NeoXBikram](https://github.com/NeoXBikram/NeoXBikram) - 
 - [BikramGole/NeoOS](https://github.com/BikramGole/NeoOS) - neo os by Bikram
 
