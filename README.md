@@ -197,7 +197,7 @@ neo@Arch:~$ fastfetch --structure OS:WM:Shell:Editor:Languages:Focus
 | Component | Detail |
 | :--- | :--- |
 | **OS** | Arch Linux |
-| **WM** | Mango Everwhere |
+| **WM** | Hyprland |
 | **Shell** | Fish |
 | **Editor** | Neovim |
 | **Focus** | AI tools, Linux customization, minimal computing |
