@@ -61,7 +61,7 @@
     <circle cx="5" cy="0" r="5" fill="#30d158"/>
     <text x="20" y="5" class="mono" font-size="13" fill="#8e8e93">SYSTEM HEALTHY</text>
     <text x="190" y="5" class="mono" font-size="13" fill="#8e8e93">OS / Arch Linux</text>
-    <text x="350" y="5" class="mono" font-size="13" fill="#8e8e93">WM / Mango Everwhere</text>
+    <text x="350" y="5" class="mono" font-size="13" fill="#8e8e93">WM / Hyprland</text>
     <text x="470" y="5" class="mono" font-size="13" fill="#8e8e93">EDITOR / NEOVIM</text>
     <text x="700" y="5" class="mono" font-size="13" fill="#8e8e93">TARGET / SMALL + FAST + FREE</text>
   </g>
