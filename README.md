@@ -164,11 +164,11 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 
 ### ⭐ Recent Stars
 
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 - [BikramGole/Abyssal](https://github.com/BikramGole/Abyssal) - 
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing &amp; development tools
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [NeoXBikram/NeoXBikram](https://github.com/NeoXBikram/NeoXBikram) - 
-- [BikramGole/NeoOS](https://github.com/BikramGole/NeoOS) - neo os by Bikram
 
 ---
 
