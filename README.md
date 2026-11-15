@@ -215,7 +215,6 @@ neo@Arch:~$ fastfetch --structure OS:WM:Shell:Editor:Languages:Focus
 - **Email**: [bikramgole.genius@gmail.com](mailto:bikramgole.genius@gmail.com)
 - **Email**: [er@bikramgole.com.np](mailto:er@bikramgole.com.np)
 - **GitHub**: [BikramGole](https://github.com/BikramGole)
-- <a href="https://lounge.ai/@bikramgole"><img src="https://lounge.ai/api/badge/bikramgole" alt="Bikram Gole on AI Lounge" height="28"></a>
 
 ---
 
