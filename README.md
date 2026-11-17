@@ -165,11 +165,11 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 
 ### ⭐ Recent Stars
 
+- [Sagar-Shahi/Sagar-Shahi](https://github.com/Sagar-Shahi/Sagar-Shahi) - 
+- [Sagar-Shahi/Sagar-Shahi.github.io](https://github.com/Sagar-Shahi/Sagar-Shahi.github.io) - 
+- [Sagar-Shahi/linkpulse](https://github.com/Sagar-Shahi/linkpulse) - 
+- [Sagar-Shahi/fitness-hub](https://github.com/Sagar-Shahi/fitness-hub) - 
 - [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
-- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
-- [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) - List of Permanent Free LLM API  (API Keys)
 
 ---
 
