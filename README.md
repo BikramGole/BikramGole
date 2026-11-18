@@ -29,11 +29,11 @@ I build small, fast, and understandable systems — from a Linux system compiled
 
 ## Selected work
 
-<img src="./assets/showcase.svg" width="100%" alt="Selected projects: KinaHub, Android 17 Cinnamon Bun, and BikramGole" />
+<img src="./assets/showcase.svg" width="100%" alt="Featured projects: KinaHub, Android 17 Cinnamon Bun, and BikramGole" />
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### [KinaHub](https://github.com/BikramGole/KinaHub)
 
@@ -42,7 +42,7 @@ AI-powered local e-commerce and CRM platform connecting sellers and customers wi
 `React 19` `TypeScript` `Django REST` `PostgreSQL` `OpenRouter`
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### [Android 17](https://github.com/BikramGole/andriod17)
 
@@ -51,13 +51,84 @@ Cinematic interactive showcase for Android 17 "Cinnamon Bun" (API 37) — a mark
 `React 19` `TypeScript` `Three.js` `Redux Toolkit` `Framer Motion`
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### [BikramGole](https://github.com/BikramGole/Bikram)
 
 My personal website — a space-themed digital realm with a dynamic theme engine, an interactive mini terminal, and a persona quiz. A true reflection of my hacker spirit.
 
 `Vanilla JS` `CSS` `HTML` `Sitemap` `CI`
+
+</td>
+<td width="50%" valign="top">
+
+### [SuperCode](https://supercodedev.vercel.app/)
+
+A real-time collaborative online IDE with shared coding rooms, Monaco editing, multi-file projects, live HTML preview, and Piston-backed code execution.
+
+`React` `TypeScript` `Monaco` `Yjs` `Express` `Supabase`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Binod Livestock](https://www.binodgurung.com.np/)
+
+Bilingual farm-direct livestock storefront for Kathmandu with transparent pricing, product detail views, WhatsApp ordering, and wholesale inquiries.
+
+`Next.js` `React` `Vercel` `WhatsApp`
+
+</td>
+<td width="50%" valign="top">
+
+### [Abyssal Oath](https://abyssal-oath.vercel.app/)
+
+A dark fiction identity site and public archive for the Abyssal-oath collective, built with WebGL, procedural audio, live GitHub data, and a member sanctum.
+
+`Vanilla JS` `Three.js` `Web Audio` `Neon` `Vercel`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Jillab](https://www.jillab.com.np/)
+
+Immersive link-in-bio portfolio with a fullscreen video stage, custom playlist player, canvas snow, glowing cursor, and a Postgres-backed view counter. Also at [jillab.vercel.app](https://jillab.vercel.app/).
+
+`HTML` `CSS` `Vanilla JS` `PostgreSQL` `Sentry`
+
+</td>
+<td width="50%" valign="top">
+
+### [iPhone: The Engineering Marvel](https://work-ios.vercel.app/)
+
+An interactive engineering deep dive through iPhone hardware, using 3D visuals, motion-led storytelling, and detailed component breakdowns. [Source](https://github.com/BikramGole/work-ios).
+
+`React 19` `Three.js` `React Three Fiber` `TypeScript` `Vite`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [CommitRank](https://repopulse-hq.vercel.app/)
+
+Real-time GitHub leaderboard and analytics dashboard ranking classmates by contributions, velocity, stars, and repository impact. [Source](https://github.com/BikramGole/RepoPulse).
+
+`Next.js 16` `TypeScript` `Tailwind` `GitHub GraphQL` `D3`
+
+</td>
+<td width="50%" valign="top">
+
+### [Ytdaily](https://github.com/BikramGole/Ytdaily)
+
+High-performance media automation engine with a Rich TUI, PySide6 desktop app, SponsorBlock scrubbing, parallel downloads, and systemd scheduling.
+
+`Python` `PySide6` `Rich` `yt-dlp` `SponsorBlock`
 
 </td>
 </tr>
