@@ -35,7 +35,7 @@ I build small, fast, and understandable systems — from a Linux system compiled
 <tr>
 <td width="50%" valign="top">
 
-### [KinaHub](https://github.com/BikramGole/KinaHub)
+### <img src="./assets/logos/kinahub.png" width="28" height="28" alt="KinaHub logo" /> [KinaHub](https://github.com/BikramGole/KinaHub)
 
 AI-powered local e-commerce and CRM platform connecting sellers and customers with smart recommendations, location-aware delivery optimization, and an LLM shopping assistant via OpenRouter.
 
@@ -44,7 +44,7 @@ AI-powered local e-commerce and CRM platform connecting sellers and customers wi
 </td>
 <td width="50%" valign="top">
 
-### [Android 17](https://github.com/BikramGole/andriod17)
+### <img src="./assets/logos/android17.svg" width="28" height="28" alt="Android 17 logo" /> [Android 17](https://github.com/BikramGole/andriod17)
 
 Cinematic interactive showcase for Android 17 "Cinnamon Bun" (API 37) — a marketing site with particle effects, a full-featured Android simulator, and a 3D Android bot built with Three.js.
 
@@ -64,7 +64,7 @@ My personal website — a space-themed digital realm with a dynamic theme engine
 </td>
 <td width="50%" valign="top">
 
-### [SuperCode](https://supercodedev.vercel.app/)
+### <img src="./assets/logos/supercode.png" width="28" height="28" alt="SuperCode logo" /> [SuperCode](https://supercodedev.vercel.app/)
 
 A real-time collaborative online IDE with shared coding rooms, Monaco editing, multi-file projects, live HTML preview, and Piston-backed code execution.
 
@@ -75,7 +75,7 @@ A real-time collaborative online IDE with shared coding rooms, Monaco editing, m
 <tr>
 <td width="50%" valign="top">
 
-### [Binod Livestock](https://www.binodgurung.com.np/)
+### <img src="./assets/logos/binod-livestock.png" width="28" height="28" alt="Binod Livestock logo" /> [Binod Livestock](https://www.binodgurung.com.np/)
 
 Bilingual farm-direct livestock storefront for Kathmandu with transparent pricing, product detail views, WhatsApp ordering, and wholesale inquiries.
 
@@ -84,7 +84,7 @@ Bilingual farm-direct livestock storefront for Kathmandu with transparent pricin
 </td>
 <td width="50%" valign="top">
 
-### [Abyssal Oath](https://abyssal-oath.vercel.app/)
+### <img src="./assets/logos/abyssal-oath.svg" width="28" height="28" alt="Abyssal Oath logo" /> [Abyssal Oath](https://abyssal-oath.vercel.app/)
 
 A dark fiction identity site and public archive for the Abyssal-oath collective, built with WebGL, procedural audio, live GitHub data, and a member sanctum.
 
@@ -95,7 +95,7 @@ A dark fiction identity site and public archive for the Abyssal-oath collective,
 <tr>
 <td width="50%" valign="top">
 
-### [Jillab](https://www.jillab.com.np/)
+### <img src="./assets/logos/jillab.png" width="28" height="28" alt="Jillab logo" /> [Jillab](https://www.jillab.com.np/)
 
 Immersive link-in-bio portfolio with a fullscreen video stage, custom playlist player, canvas snow, glowing cursor, and a Postgres-backed view counter. Also at [jillab.vercel.app](https://jillab.vercel.app/).
 
@@ -104,7 +104,7 @@ Immersive link-in-bio portfolio with a fullscreen video stage, custom playlist p
 </td>
 <td width="50%" valign="top">
 
-### [iPhone: The Engineering Marvel](https://work-ios.vercel.app/)
+### <img src="./assets/logos/iphone.svg" width="28" height="28" alt="iPhone Engineering Marvel logo" /> [iPhone: The Engineering Marvel](https://work-ios.vercel.app/)
 
 An interactive engineering deep dive through iPhone hardware, using 3D visuals, motion-led storytelling, and detailed component breakdowns. [Source](https://github.com/BikramGole/work-ios).
 
@@ -115,7 +115,7 @@ An interactive engineering deep dive through iPhone hardware, using 3D visuals, 
 <tr>
 <td width="50%" valign="top">
 
-### [CommitRank](https://repopulse-hq.vercel.app/)
+### <img src="./assets/logos/repopulse.png" width="28" height="28" alt="CommitRank logo" /> [CommitRank](https://repopulse-hq.vercel.app/)
 
 Real-time GitHub leaderboard and analytics dashboard ranking classmates by contributions, velocity, stars, and repository impact. [Source](https://github.com/BikramGole/RepoPulse).
 
@@ -124,7 +124,7 @@ Real-time GitHub leaderboard and analytics dashboard ranking classmates by contr
 </td>
 <td width="50%" valign="top">
 
-### [Ytdaily](https://github.com/BikramGole/Ytdaily)
+### <img src="./assets/logos/ytdaily.svg" width="28" height="28" alt="Ytdaily logo" /> [Ytdaily](https://github.com/BikramGole/Ytdaily)
 
 High-performance media automation engine with a Rich TUI, PySide6 desktop app, SponsorBlock scrubbing, parallel downloads, and systemd scheduling.
 
