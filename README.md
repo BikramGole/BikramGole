@@ -238,8 +238,8 @@ High-performance media automation engine with a Rich TUI, PySide6 desktop app, S
 
 - [Sagar-Shahi/Sagar-Shahi](https://github.com/Sagar-Shahi/Sagar-Shahi) - 
 - [Sagar-Shahi/Sagar-Shahi.github.io](https://github.com/Sagar-Shahi/Sagar-Shahi.github.io) - 
-- [Sagar-Shahi/linkpulse](https://github.com/Sagar-Shahi/linkpulse) - 
-- [Sagar-Shahi/fitness-hub](https://github.com/Sagar-Shahi/fitness-hub) - 
+- [Sagar-Shahi/linkpulse](https://github.com/Sagar-Shahi/linkpulse) - Campaign link tracking: tagged short links, click analytics and a REST API, with privacy and security built in. Django 5.2 and DRF. 197 automated tests
+- [Sagar-Shahi/fitness-hub](https://github.com/Sagar-Shahi/fitness-hub) - Private fitness tracker with a plan shop, dashboard and REST API. Built with Django 5.2 and Django REST Framework. 162 automated tests.
 - [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh
 
 ---
