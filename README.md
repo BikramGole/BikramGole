@@ -55,7 +55,7 @@ Cinematic interactive showcase for Android 17 "Cinnamon Bun" (API 37) — a mark
 <tr>
 <td width="50%" valign="top">
 
-### [BikramGole](https://github.com/BikramGole/Bikram)
+### <img src="./assets/logos/bikramgole.png" width="19" height="28" alt="BikramGole favicon" /> [BikramGole](https://github.com/BikramGole/Bikram)
 
 My personal website — a space-themed digital realm with a dynamic theme engine, an interactive mini terminal, and a persona quiz. A true reflection of my hacker spirit.
 
