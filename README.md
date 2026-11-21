@@ -8,6 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/GitHub-111318?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/BikramGole)
 [![Email](https://img.shields.io/badge/Email-111318?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:bikramgole.genius@gmail.com)
 <a href="https://lounge.ai/@bikramgole"><img src="https://lounge.ai/api/badge/bikramgole" alt="Bikram Gole on AI Lounge" height="28"></a>
+<a href="https://gitranks.com/profile/BikramGole"><img src="https://gitranks.com/badge/user/BikramGole/profile-card.svg" alt="BikramGole on GitRanks"></a>
 
 </div>
 
