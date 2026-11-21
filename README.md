@@ -193,6 +193,10 @@ High-performance media automation engine with a Rich TUI, PySide6 desktop app, S
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BikramGole&theme=radical" alt="Most Commit Language" />
 </div>
 
+<p align="center">
+<a href="https://gitranks.com/profile/BikramGole"><img src="https://gitranks.com/badge/user/BikramGole/profile-card.svg" alt="BikramGole on GitRanks"></a>
+</p>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BikramGole&theme=radical" alt="GitHub Streak" />
 </div>
@@ -206,10 +210,6 @@ High-performance media automation engine with a Rich TUI, PySide6 desktop app, S
 
 <p align="center">
 <a href="https://wakatime.com/@07f2f83c-a4f8-407e-ac67-6aafb674ebf8"><img src="https://wakatime.com/badge/user/07f2f83c-a4f8-407e-ac67-6aafb674ebf8.svg" alt="Total time coded since May 27 2026" /></a>
-</p>
-
-<p align="center">
-<a href="https://gitranks.com/profile/BikramGole"><img src="https://gitranks.com/badge/user/BikramGole/profile-card.svg" alt="BikramGole on GitRanks"></a>
 </p>
 
 ---
