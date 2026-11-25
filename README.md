@@ -232,19 +232,19 @@ High-performance media automation engine with a Rich TUI, PySide6 desktop app, S
 
 ### 🔨 My recent Pull Requests
 
+- [Add localhost web version of Insight8x8](https://github.com/SuenoOcho/Insight8x8/pull/1) on [SuenoOcho/Insight8x8](https://github.com/SuenoOcho/Insight8x8)
 - [Fix simulator icon ratios and status bar visibility](https://github.com/BikramGole/android17/pull/1) on [BikramGole/android17](https://github.com/BikramGole/android17)
 - [docs: update README with hosted site status warning](https://github.com/Rockyffgod/OJT/pull/1) on [Rockyffgod/OJT](https://github.com/Rockyffgod/OJT)
 - [Swap demo/walkthrough sections in README](https://github.com/BikramGole/KinaHub/pull/72) on [BikramGole/KinaHub](https://github.com/BikramGole/KinaHub)
 - [fix: use dynamic PROJECT_SLUG in sentry-event-checker](https://github.com/BikramGole/KinaHub/pull/71) on [BikramGole/KinaHub](https://github.com/BikramGole/KinaHub)
-- [fix: auto-close GitHub issues when Sentry issues resolved &#43; project filter](https://github.com/BikramGole/KinaHub/pull/70) on [BikramGole/KinaHub](https://github.com/BikramGole/KinaHub)
 
 ### ⭐ Recent Stars
 
-- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-- [Nutlope/hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-- [Sagar-Shahi/Sagar-Shahi](https://github.com/Sagar-Shahi/Sagar-Shahi) - 
-- [Sagar-Shahi/Sagar-Shahi.github.io](https://github.com/Sagar-Shahi/Sagar-Shahi.github.io) - 
-- [Sagar-Shahi/linkpulse](https://github.com/Sagar-Shahi/linkpulse) - Campaign link tracking: tagged short links, click analytics and a REST API, with privacy and security built in. Django 5.2 and DRF. 197 automated tests
+- [BikramGole/Syncara](https://github.com/BikramGole/Syncara) - Carry your playlists everywhere, even when offline
+- [BikramGole/sagarshahi865.github.io](https://github.com/BikramGole/sagarshahi865.github.io) - 
+- [BikramGole/zenX](https://github.com/BikramGole/zenX) - A multiplayer gaming platform for private friend matches across skill-based and casual games.
+- [BikramGole/rice](https://github.com/BikramGole/rice) - 
+- [BikramGole/Insight8x8](https://github.com/BikramGole/Insight8x8) - Insight8x8 turns your Chess.com games into useful chess lessons. Enter your username to analyze public games with Stockfish and AI. Understand mistakes, discover missed tactics, explore better moves, and receive personalized feedback in plain language. Learn not just what went wrong, but why—and how to improve your game, one move at a time, always.
 
 ---
 
