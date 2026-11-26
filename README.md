@@ -240,11 +240,11 @@ High-performance media automation engine with a Rich TUI, PySide6 desktop app, S
 
 ### ⭐ Recent Stars
 
+- [BikramGole/Abyssocial](https://github.com/BikramGole/Abyssocial) - 
 - [BikramGole/Syncara](https://github.com/BikramGole/Syncara) - Carry your playlists everywhere, even when offline
 - [BikramGole/sagarshahi865.github.io](https://github.com/BikramGole/sagarshahi865.github.io) - 
 - [BikramGole/zenX](https://github.com/BikramGole/zenX) - A multiplayer gaming platform for private friend matches across skill-based and casual games.
 - [BikramGole/rice](https://github.com/BikramGole/rice) - 
-- [BikramGole/Insight8x8](https://github.com/BikramGole/Insight8x8) - Insight8x8 turns your Chess.com games into useful chess lessons. Enter your username to analyze public games with Stockfish and AI. Understand mistakes, discover missed tactics, explore better moves, and receive personalized feedback in plain language. Learn not just what went wrong, but why—and how to improve your game, one move at a time, always.
 
 ---
 
